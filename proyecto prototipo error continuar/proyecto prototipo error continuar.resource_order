@@ -53,7 +53,7 @@
     {"name":"Circulo","order":2,"path":"sprites/Circulo/Circulo.yy",},
     {"name":"crate_09","order":1,"path":"sprites/crate_09/crate_09.yy",},
     {"name":"nube","order":1,"path":"sprites/nube/nube.yy",},
-    {"name":"pintado","order":3,"path":"sprites/pintado/pintado.yy",},
+    {"name":"spr_pintado","order":3,"path":"sprites/spr_pintado/spr_pintado.yy",},
     {"name":"pngwing_com","order":1,"path":"sprites/pngwing_com/pngwing_com.yy",},
     {"name":"spr_abajo","order":2,"path":"sprites/spr_abajo/spr_abajo.yy",},
     {"name":"spr_arriba","order":3,"path":"sprites/spr_arriba/spr_arriba.yy",},

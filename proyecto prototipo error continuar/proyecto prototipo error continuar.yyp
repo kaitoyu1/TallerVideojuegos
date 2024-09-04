@@ -88,7 +88,7 @@
     {"id":{"name":"crate_09","path":"sprites/crate_09/crate_09.yy",},},
     {"id":{"name":"crate_44","path":"sprites/crate_44/crate_44.yy",},},
     {"id":{"name":"nube","path":"sprites/nube/nube.yy",},},
-    {"id":{"name":"pintado","path":"sprites/pintado/pintado.yy",},},
+    {"id":{"name":"spr_pintado","path":"sprites/spr_pintado/spr_pintado.yy",},},
     {"id":{"name":"pngwing_com","path":"sprites/pngwing_com/pngwing_com.yy",},},
     {"id":{"name":"spr_abajo","path":"sprites/spr_abajo/spr_abajo.yy",},},
     {"id":{"name":"spr_arriba","path":"sprites/spr_arriba/spr_arriba.yy",},},
