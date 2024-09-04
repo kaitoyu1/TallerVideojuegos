@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"WhatsApp_Image_2024_09_03_at_17_40_11",
+  "%Name":"spr_Backround",
   "bboxMode":0,
-  "bbox_bottom":718,
+  "bbox_bottom":1022,
   "bbox_left":0,
-  "bbox_right":1279,
+  "bbox_right":1365,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"47e094c2-e17e-4c40-ba74-a5e1d572b972","name":"47e094c2-e17e-4c40-ba74-a5e1d572b972","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c68eae30-61b3-4ac4-9959-7466d24452ec","name":"c68eae30-61b3-4ac4-9959-7466d24452ec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":719,
+  "height":1023,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"534a788d-dfe5-4c5b-8049-bbc34c112a77","blendMode":0,"displayName":"default","isLocked":false,"name":"534a788d-dfe5-4c5b-8049-bbc34c112a77","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b5e7e857-d20c-4cdd-a0b6-d6c220a8db10","blendMode":0,"displayName":"default","isLocked":false,"name":"b5e7e857-d20c-4cdd-a0b6-d6c220a8db10","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"WhatsApp_Image_2024_09_03_at_17_40_11",
+  "name":"spr_Backround",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"WhatsApp_Image_2024_09_03_at_17_40_11",
+    "%Name":"spr_Backround",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"WhatsApp_Image_2024_09_03_at_17_40_11",
+    "name":"spr_Backround",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"47e094c2-e17e-4c40-ba74-a5e1d572b972","path":"sprites/WhatsApp_Image_2024_09_03_at_17_40_11/WhatsApp_Image_2024_09_03_at_17_40_11.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"31e35ab3-6538-4aa2-8723-7f0e938e7518","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c68eae30-61b3-4ac4-9959-7466d24452ec","path":"sprites/spr_Backround/spr_Backround.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1d0fd14e-5ba2-44ba-9382-4839a1917e3a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1280,
+  "width":1366,
 }

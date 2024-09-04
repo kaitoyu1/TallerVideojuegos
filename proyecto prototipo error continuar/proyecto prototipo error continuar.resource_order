@@ -60,6 +60,6 @@
     {"name":"spr_caminar","order":1,"path":"sprites/spr_caminar/spr_caminar.yy",},
     {"name":"WhatsApp_Image_2024_09_03_at_17_39_46","order":1,"path":"sprites/WhatsApp_Image_2024_09_03_at_17_39_46/WhatsApp_Image_2024_09_03_at_17_39_46.yy",},
     {"name":"WhatsApp_Image_2024_09_03_at_17_39_52","order":2,"path":"sprites/WhatsApp_Image_2024_09_03_at_17_39_52/WhatsApp_Image_2024_09_03_at_17_39_52.yy",},
-    {"name":"WhatsApp_Image_2024_09_03_at_17_40_11","order":1,"path":"sprites/WhatsApp_Image_2024_09_03_at_17_40_11/WhatsApp_Image_2024_09_03_at_17_40_11.yy",},
+    {"name":"spr_Fondosmileface","order":1,"path":"sprites/spr_Fondosmileface/spr_Fondosmileface.yy",},
   ],
 }
