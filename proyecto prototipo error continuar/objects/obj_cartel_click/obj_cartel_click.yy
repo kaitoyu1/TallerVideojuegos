@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"obj_cartel_click",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"obj_cartel_click",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Mini Juego Click  \\n Presione E",},
+  ],
+  "parent":{
+    "name":"Carteles",
+    "path":"folders/Objetos/Carteles.yy",
+  },
+  "parentObjectId":{
+    "name":"obj_cartel_parent",
+    "path":"objects/obj_cartel_parent/obj_cartel_parent.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"WhatsApp_Image_2024_09_03_at_17_39_52",
+    "path":"sprites/WhatsApp_Image_2024_09_03_at_17_39_52/WhatsApp_Image_2024_09_03_at_17_39_52.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
+}
