@@ -8,7 +8,7 @@
   "managed":true,
   "name":"obj_cartel_click_fin",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Ir a Tutorial \\n Presione E",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Ir a Tutorial \\n Presione E",},
   ],
   "parent":{
     "name":"Carteles",
