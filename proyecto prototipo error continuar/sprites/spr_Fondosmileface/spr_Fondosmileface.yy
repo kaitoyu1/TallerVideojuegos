@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_Fondosmileface",
   "bboxMode":0,
-  "bbox_bottom":718,
+  "bbox_bottom":766,
   "bbox_left":0,
-  "bbox_right":1279,
+  "bbox_right":1365,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":719,
+  "height":767,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"534a788d-dfe5-4c5b-8049-bbc34c112a77","blendMode":0,"displayName":"default","isLocked":false,"name":"534a788d-dfe5-4c5b-8049-bbc34c112a77","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1280,
+  "width":1366,
 }

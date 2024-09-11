@@ -38,8 +38,6 @@ if vspeed >= 20 {vspeed = 20}
 
 #endregion
 
-
-
 #region Salto
 
 var key_jump = keyboard_check_pressed(vk_space);
