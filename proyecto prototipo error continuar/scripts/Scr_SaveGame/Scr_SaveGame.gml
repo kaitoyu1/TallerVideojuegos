@@ -8,6 +8,7 @@ function Scr_SaveGame(){
 			y: obj_playe.y,
 			
 		},
+		
 	};
 	
 	var file = file_text_open_write("savedGame.json");

@@ -34,6 +34,7 @@
     {"name":"personaje","order":4,"path":"folders/Sprites/personaje.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_button_guardar","order":9,"path":"objects/obj_button_guardar/obj_button_guardar.yy",},
     {"name":"obj_button_Memorias","order":6,"path":"objects/obj_button_Memorias/obj_button_Memorias.yy",},
     {"name":"obj_button_menu","order":5,"path":"objects/obj_button_menu/obj_button_menu.yy",},
     {"name":"obj_button_parent","order":1,"path":"objects/obj_button_parent/obj_button_parent.yy",},

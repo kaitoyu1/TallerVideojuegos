@@ -4,10 +4,10 @@ colision = false
 
 #region Caminar juego
 
-	var arriba = keyboard_check(vk_up)
-	var abajo = keyboard_check(vk_down)
-	var derecha = keyboard_check(vk_right)
-	var izquierda = keyboard_check(vk_left)
+	var arriba = keyboard_check(ord("W"))
+	var abajo = keyboard_check(ord("S"))
+	var derecha = keyboard_check(ord("D"))
+	var izquierda = keyboard_check(ord("A"))
 
 	if derecha {
 		x += velo

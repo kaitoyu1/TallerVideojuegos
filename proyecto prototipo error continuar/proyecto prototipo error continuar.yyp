@@ -57,6 +57,7 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"intrucciones_plataforma","path":"objects/intrucciones_plataforma/intrucciones_plataforma.yy",},},
     {"id":{"name":"intrucciones","path":"objects/intrucciones/intrucciones.yy",},},
+    {"id":{"name":"obj_button_guardar","path":"objects/obj_button_guardar/obj_button_guardar.yy",},},
     {"id":{"name":"obj_button_Memorias","path":"objects/obj_button_Memorias/obj_button_Memorias.yy",},},
     {"id":{"name":"obj_button_menu","path":"objects/obj_button_menu/obj_button_menu.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},

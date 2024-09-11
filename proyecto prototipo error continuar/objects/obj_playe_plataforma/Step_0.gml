@@ -4,9 +4,8 @@
 
 #region Caminar juego
 
-
-	var derecha = keyboard_check(vk_right)
-	var izquierda = keyboard_check(vk_left)
+	var derecha = keyboard_check(ord("D"))
+	var izquierda = keyboard_check(ord("A"))
 
 	if derecha {
 		x += velo
