@@ -1,8 +1,4 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-
-// Inherit the parent event
-event_inherited();
-
-room_goto(nv_tutorial);
-
+move_contact_solid(direction, vspeed)
+vspeed = 0

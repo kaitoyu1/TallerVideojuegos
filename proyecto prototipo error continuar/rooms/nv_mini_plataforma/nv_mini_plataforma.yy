@@ -17,7 +17,7 @@
     {"name":"inst_2E54A4F9","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},
     {"name":"inst_61372117","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},
     {"name":"inst_5F100ABD","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},
-    {"name":"inst_349F8ED9","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},
+    {"name":"inst_6CC89F1B","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -33,7 +33,7 @@
         {"$GMRInstance":"","%Name":"inst_2E54A4F9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2E54A4F9","objectId":{"name":"obj_nube","path":"objects/obj_nube/obj_nube.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":-1.0,"x":2688.0,"y":672.0,},
         {"$GMRInstance":"","%Name":"inst_61372117","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_61372117","objectId":{"name":"obj_nube","path":"objects/obj_nube/obj_nube.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":-1.0,"x":2752.0,"y":672.0,},
         {"$GMRInstance":"","%Name":"inst_5F100ABD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F100ABD","objectId":{"name":"obj_cartel_click_fin","path":"objects/obj_cartel_click_fin/obj_cartel_click_fin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2848.0,"y":352.0,},
-        {"$GMRInstance":"","%Name":"inst_349F8ED9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_349F8ED9","objectId":{"name":"obj_playe_plataforma","path":"objects/obj_playe_plataforma/obj_playe_plataforma.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":1056.0,},
+        {"$GMRInstance":"","%Name":"inst_6CC89F1B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6CC89F1B","objectId":{"name":"obj_player_bebe_plataforma","path":"objects/obj_player_bebe_plataforma/obj_player_bebe_plataforma.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":1024.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"_123Z_2101_w020_n001_948B_p15_948","path":"sprites/_123Z_2101_w020_n001_948B_p15_948/_123Z_2101_w020_n001_948B_p15_948.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -60,7 +60,7 @@
   },
   "sequenceId":null,
   "views":[
-    {"hborder":700,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":{"name":"obj_playe_plataforma","path":"objects/obj_playe_plataforma/obj_playe_plataforma.yy",},"vborder":700,"visible":true,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":700,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":{"name":"obj_player_bebe_plataforma","path":"objects/obj_player_bebe_plataforma/obj_player_bebe_plataforma.yy",},"vborder":700,"visible":true,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
