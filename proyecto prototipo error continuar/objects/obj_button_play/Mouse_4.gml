@@ -4,5 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(nv_tutorial);
+room_goto(nv_infancia);
 

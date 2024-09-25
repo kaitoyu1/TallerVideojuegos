@@ -1,3 +1,8 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-colision = true
+
+// Inherit the parent event
+event_inherited();
+
+room_goto(nv_tutorial);
+
