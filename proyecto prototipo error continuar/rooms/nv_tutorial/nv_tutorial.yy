@@ -6,23 +6,25 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_6E8CD836","path":"rooms/nv_tutorial/nv_tutorial.yy",},
-    {"name":"inst_1FBBD432","path":"rooms/nv_tutorial/nv_tutorial.yy",},
-    {"name":"inst_57680936","path":"rooms/nv_tutorial/nv_tutorial.yy",},
+    {"name":"inst_74B7A8C4","path":"rooms/nv_tutorial/nv_tutorial.yy",},
+    {"name":"inst_7051CAAE","path":"rooms/nv_tutorial/nv_tutorial.yy",},
+    {"name":"inst_70AD3F83","path":"rooms/nv_tutorial/nv_tutorial.yy",},
+    {"name":"inst_61CD9BA0","path":"rooms/nv_tutorial/nv_tutorial.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"","%Name":"inst_57680936","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_57680936","objectId":{"name":"obj_cartel_click","path":"objects/obj_cartel_click/obj_cartel_click.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":416.0,},
-        {"$GMRInstance":"","%Name":"inst_1FBBD432","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1FBBD432","objectId":{"name":"obj_cartel_plataforma","path":"objects/obj_cartel_plataforma/obj_cartel_plataforma.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":384.0,},
-        {"$GMRInstance":"","%Name":"inst_6E8CD836","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E8CD836","objectId":{"name":"obj_playe","path":"objects/obj_playe/obj_playe.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":544.0,},
+        {"$GMRInstance":"","%Name":"inst_74B7A8C4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_74B7A8C4","objectId":null,"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":224.0,"y":608.0,},
+        {"$GMRInstance":"","%Name":"inst_7051CAAE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7051CAAE","objectId":{"name":"obj_cartel_click","path":"objects/obj_cartel_click/obj_cartel_click.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":416.0,},
+        {"$GMRInstance":"","%Name":"inst_70AD3F83","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_70AD3F83","objectId":{"name":"obj_cartel_plataforma","path":"objects/obj_cartel_plataforma/obj_cartel_plataforma.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":576.0,},
+        {"$GMRInstance":"","%Name":"inst_61CD9BA0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_61CD9BA0","objectId":{"name":"obj_cartel_plataforma","path":"objects/obj_cartel_plataforma/obj_cartel_plataforma.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":448.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_Backround","path":"sprites/spr_Backround/spr_Backround.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":true,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":-264,},
   ],
   "name":"nv_tutorial",
   "parent":{
-    "name":"Salas",
-    "path":"folders/Salas.yy",
+    "name":"Etapas Vida",
+    "path":"folders/Salas/Etapas Vida.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
