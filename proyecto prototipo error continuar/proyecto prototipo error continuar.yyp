@@ -50,7 +50,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
@@ -98,6 +98,7 @@
     {"id":{"name":"spr_indle_bebe","path":"sprites/spr_indle_bebe/spr_indle_bebe.yy",},},
     {"id":{"name":"spr_indle","path":"sprites/spr_indle/spr_indle.yy",},},
     {"id":{"name":"spr_pintado","path":"sprites/spr_pintado/spr_pintado.yy",},},
+    {"id":{"name":"Letras","path":"sprites/Letras/Letras.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"WhatsApp_Image_2024_09_03_at_17_39_46","path":"sprites/WhatsApp_Image_2024_09_03_at_17_39_46/WhatsApp_Image_2024_09_03_at_17_39_46.yy",},},
     {"id":{"name":"WhatsApp_Image_2024_09_03_at_17_39_52","path":"sprites/WhatsApp_Image_2024_09_03_at_17_39_52/WhatsApp_Image_2024_09_03_at_17_39_52.yy",},},

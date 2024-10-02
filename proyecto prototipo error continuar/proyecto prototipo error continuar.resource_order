@@ -61,6 +61,7 @@
     {"name":"spr_Fondosmileface","order":1,"path":"sprites/spr_Fondosmileface/spr_Fondosmileface.yy",},
     {"name":"spr_indle_bebe","order":5,"path":"sprites/spr_indle_bebe/spr_indle_bebe.yy",},
     {"name":"spr_pintado","order":3,"path":"sprites/spr_pintado/spr_pintado.yy",},
+    {"name":"Letras","order":1,"path":"sprites/Letras/Letras.yy",},
     {"name":"WhatsApp_Image_2024_09_03_at_17_39_46","order":1,"path":"sprites/WhatsApp_Image_2024_09_03_at_17_39_46/WhatsApp_Image_2024_09_03_at_17_39_46.yy",},
     {"name":"WhatsApp_Image_2024_09_03_at_17_39_52","order":2,"path":"sprites/WhatsApp_Image_2024_09_03_at_17_39_52/WhatsApp_Image_2024_09_03_at_17_39_52.yy",},
   ],
