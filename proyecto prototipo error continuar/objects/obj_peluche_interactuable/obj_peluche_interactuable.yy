@@ -1,15 +1,17 @@
 {
   "$GMObject":"",
   "%Name":"obj_peluche_interactuable",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_peluche_interactuable",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Precionar E\\nPara interactuar",},
   ],
   "parent":{
-    "name":"Carteles",
-    "path":"folders/Objetos/Carteles.yy",
+    "name":"obj_interactuables",
+    "path":"folders/Objetos/interanctuable/obj_interactuables.yy",
   },
   "parentObjectId":{
     "name":"obj_cartel_parent",

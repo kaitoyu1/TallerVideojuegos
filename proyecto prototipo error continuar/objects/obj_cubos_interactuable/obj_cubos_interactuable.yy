@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Mini Juego Plataforma \\n Presione E",},
   ],
   "parent":{
-    "name":"Carteles",
-    "path":"folders/Objetos/Carteles.yy",
+    "name":"obj_interactuables",
+    "path":"folders/Objetos/interanctuable/obj_interactuables.yy",
   },
   "parentObjectId":{
     "name":"obj_cartel_parent",
