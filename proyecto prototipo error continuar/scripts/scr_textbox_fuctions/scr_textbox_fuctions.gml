@@ -30,14 +30,10 @@ function scr_text(_text){
 		switch(argument[1])
 		{
 			case "Player":
-			//speaker_sprite[page_number] = Spr_bunny_face;
 			txtb_spr[page_number] = spr_Atextbox;
 			break;
 			
-			/*case "Shadow":
-			speaker_sprite[page_number] = Spr_Shadow;
-			txtb_spr[page_number] = spr_textbox_shadow;
-			break;*/
+
 			
 		}
 	}

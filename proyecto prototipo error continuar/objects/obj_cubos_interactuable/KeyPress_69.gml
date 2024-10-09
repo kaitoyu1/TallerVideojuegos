@@ -5,6 +5,7 @@ if colision{
 	{
 		sprite_index = spr_ord	
 	}
+	text_id = "obj 1"
 	create_textbox(text_id);
 }
 

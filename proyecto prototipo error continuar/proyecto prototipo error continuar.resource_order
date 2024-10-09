@@ -27,6 +27,7 @@
     {"name":"obj_ojo2_2","order":5,"path":"objects/obj_ojo2_2/obj_ojo2_2.yy",},
     {"name":"obj_ojo2_3","order":6,"path":"objects/obj_ojo2_3/obj_ojo2_3.yy",},
     {"name":"obj_peluche_interactuable","order":1,"path":"objects/obj_peluche_interactuable/obj_peluche_interactuable.yy",},
+    {"name":"obj_prueba_d","order":6,"path":"objects/obj_prueba_d/obj_prueba_d.yy",},
     {"name":"obj_settings","order":3,"path":"objects/obj_settings/obj_settings.yy",},
     {"name":"obj_son_1","order":7,"path":"objects/obj_son_1/obj_son_1.yy",},
     {"name":"obj_son_2","order":8,"path":"objects/obj_son_2/obj_son_2.yy",},
@@ -52,5 +53,6 @@
     {"name":"spr_ord","order":3,"path":"sprites/spr_ord/spr_ord.yy",},
     {"name":"spr_textboxt","order":1,"path":"sprites/spr_textboxt/spr_textboxt.yy",},
     {"name":"Sprite23","order":1,"path":"sprites/Sprite23/Sprite23.yy",},
+    {"name":"Sprite37","order":5,"path":"sprites/Sprite37/Sprite37.yy",},
   ],
 }
