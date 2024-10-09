@@ -67,11 +67,13 @@
     {"$GMFolder":"","%Name":"nv_plat","folderPath":"folders/Sprites/nv_plat.yy","name":"nv_plat","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"personaje","folderPath":"folders/Sprites/personaje.yy","name":"personaje","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"videoplayback.m4a","CopyToMask":-1,"filePath":"datafiles","name":"videoplayback.m4a","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
@@ -226,6 +228,12 @@
     {"id":{"name":"__shd_scribble_bake_outline_8dir","path":"shaders/__shd_scribble_bake_outline_8dir/__shd_scribble_bake_outline_8dir.yy",},},
     {"id":{"name":"__shd_scribble_bake_shadow","path":"shaders/__shd_scribble_bake_shadow/__shd_scribble_bake_shadow.yy",},},
     {"id":{"name":"__shd_scribble","path":"shaders/__shd_scribble/__shd_scribble.yy",},},
+    {"id":{"name":"Cubos","path":"sounds/Cubos/Cubos.yy",},},
+    {"id":{"name":"Destacador","path":"sounds/Destacador/Destacador.yy",},},
+    {"id":{"name":"Memoria_Conseguida","path":"sounds/Memoria_Conseguida/Memoria_Conseguida.yy",},},
+    {"id":{"name":"Paguinas","path":"sounds/Paguinas/Paguinas.yy",},},
+    {"id":{"name":"Peluche","path":"sounds/Peluche/Peluche.yy",},},
+    {"id":{"name":"Musica_Leval_1","path":"sounds/Musica_Leval_1/Musica_Leval_1.yy",},},
     {"id":{"name":"_123Z_2101_w020_n001_948B_p15_948","path":"sprites/_123Z_2101_w020_n001_948B_p15_948/_123Z_2101_w020_n001_948B_p15_948.yy",},},
     {"id":{"name":"boton","path":"sprites/boton/boton.yy",},},
     {"id":{"name":"Circulo","path":"sprites/Circulo/Circulo.yy",},},
