@@ -73,7 +73,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
@@ -232,9 +232,9 @@
     {"id":{"name":"Cubos","path":"sounds/Cubos/Cubos.yy",},},
     {"id":{"name":"Destacador","path":"sounds/Destacador/Destacador.yy",},},
     {"id":{"name":"Memoria_Conseguida","path":"sounds/Memoria_Conseguida/Memoria_Conseguida.yy",},},
+    {"id":{"name":"Musica_Leval_1","path":"sounds/Musica_Leval_1/Musica_Leval_1.yy",},},
     {"id":{"name":"Paguinas","path":"sounds/Paguinas/Paguinas.yy",},},
     {"id":{"name":"Peluche","path":"sounds/Peluche/Peluche.yy",},},
-    {"id":{"name":"Musica_Leval_1","path":"sounds/Musica_Leval_1/Musica_Leval_1.yy",},},
     {"id":{"name":"_123Z_2101_w020_n001_948B_p15_948","path":"sprites/_123Z_2101_w020_n001_948B_p15_948/_123Z_2101_w020_n001_948B_p15_948.yy",},},
     {"id":{"name":"boton","path":"sprites/boton/boton.yy",},},
     {"id":{"name":"Circulo","path":"sprites/Circulo/Circulo.yy",},},
