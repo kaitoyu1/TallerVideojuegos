@@ -12,8 +12,8 @@
   "duration":97.02496,
   "name":"Musica_Leval_1",
   "parent":{
-    "name":"Sonidos",
-    "path":"folders/Sonidos.yy",
+    "name":"Sonidos nv1",
+    "path":"folders/Sonidos/Sonidos nv1.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
