@@ -30,6 +30,7 @@ function scr_text(_text){
 		switch(argument[1])
 		{
 			case "Player":
+			speaker_sprite[page_number] = Sprite37;
 			txtb_spr[page_number] = spr_Atextbox;
 			break;
 			

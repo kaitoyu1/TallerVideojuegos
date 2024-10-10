@@ -7,7 +7,7 @@
   "managed":true,
   "name":"obj_peluche_interactuable",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Precionar E\\nPara interactuar",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Precionar E\\nPara interactuar",},
   ],
   "parent":{
     "name":"obj_interactuables",

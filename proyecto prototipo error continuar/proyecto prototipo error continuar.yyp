@@ -74,12 +74,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"scribble_fallback_font","path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},},
+    {"id":{"name":"contador","path":"objects/contador/contador.yy",},},
     {"id":{"name":"intrucciones_plataforma","path":"objects/intrucciones_plataforma/intrucciones_plataforma.yy",},},
     {"id":{"name":"intrucciones","path":"objects/intrucciones/intrucciones.yy",},},
     {"id":{"name":"obj_button_Memorias","path":"objects/obj_button_Memorias/obj_button_Memorias.yy",},},
@@ -112,7 +113,6 @@
     {"id":{"name":"obj_son_3","path":"objects/obj_son_3/obj_son_3.yy",},},
     {"id":{"name":"obj_son_4","path":"objects/obj_son_4/obj_son_4.yy",},},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},},
-    {"id":{"name":"contador","path":"objects/contador/contador.yy",},},
     {"id":{"name":"intrucciones_nv_click","path":"rooms/intrucciones_nv_click/intrucciones_nv_click.yy",},},
     {"id":{"name":"intrucciones_nv_plataforma","path":"rooms/intrucciones_nv_plataforma/intrucciones_nv_plataforma.yy",},},
     {"id":{"name":"Memorias","path":"rooms/Memorias/Memorias.yy",},},

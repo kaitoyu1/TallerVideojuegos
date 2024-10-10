@@ -4,5 +4,6 @@ if colision{
 	if sprite_index != spr_gorro //sprite oso con el gorro
 	{
 		sprite_index = spr_gorro
+		global.rec += 1
 	}
 }
