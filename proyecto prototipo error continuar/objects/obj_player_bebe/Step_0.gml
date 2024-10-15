@@ -7,22 +7,31 @@
 	var derecha = keyboard_check(ord("D"))
 	var izquierda = keyboard_check(ord("A"))
 
-	if derecha {
+	if derecha{
+		
+		if place_free( x + 5, y) {
 		x += velo
+		}
 		image_xscale = -1
 		sprite_index = spr_caminar_bebe	
 	}else
 	if izquierda{
+		if place_free( x - 5, y) {
 		x -= velo
+		}
 		image_xscale = 1
 		sprite_index = spr_caminar_bebe
 	}else
-	if arriba {
+	if arriba{ 
+		if place_free( x , y - 5) {
 		y -= velo
+		}
 		sprite_index = spr_caminar_bebe
 	}else
-	if abajo{
+	if abajo {
+		if place_free( x , y + 5) {
 		y += velo
+		}
 		sprite_index = spr_caminar_bebe
 	}else{
 		sprite_index = spr_indle_bebe

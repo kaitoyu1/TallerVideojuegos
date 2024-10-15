@@ -3,9 +3,10 @@
 
 if colision {
 	if global.rec == 2{
-	room_goto(intrucciones_nv_click)
+		global.rec += 1;
+		room_goto(intrucciones_nv_click);
 	}else{
-	text_id = "obj 2"
+	text_id = "obj_libro"
 	create_textbox(text_id);
 	}
 }

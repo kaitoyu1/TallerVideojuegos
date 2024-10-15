@@ -5,5 +5,9 @@ if colision{
 	{
 		sprite_index = spr_gorro
 		global.rec += 1
+		text_id = "obj_peluche_sinG"
+		create_textbox(text_id)
 	}
+	text_id = "obj_peluche_conG"
+	create_textbox(text_id)
 }

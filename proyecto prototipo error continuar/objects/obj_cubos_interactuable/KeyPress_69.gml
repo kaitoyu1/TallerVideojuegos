@@ -5,9 +5,12 @@ if colision{
 	{
 		sprite_index = spr_ord
 		global.rec += 1
+		text_id = "obj_cubos_des"
+		create_textbox(text_id);
 	}
-	text_id = "obj 1"
-	create_textbox(text_id);
+	text_id = "obj_cubos_ord"
+	create_textbox(text_id)
+	
 }
 
 

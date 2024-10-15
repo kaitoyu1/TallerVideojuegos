@@ -1,4 +1,12 @@
 {
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"img principio nv 1","order":1,"path":"folders/Salas/img principio nv 1.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_muros","order":1,"path":"objects/obj_muros/obj_muros.yy",},
+    {"name":"trancicion_principio_nv1","order":2,"path":"objects/trancicion_principio_nv1/trancicion_principio_nv1.yy",},
+    {"name":"img_nv_2","order":2,"path":"rooms/img_nv_2/img_nv_2.yy",},
+    {"name":"img_nv_3","order":1,"path":"rooms/img_nv_3/img_nv_3.yy",},
+    {"name":"Sprite38","order":1,"path":"sprites/Sprite38/Sprite38.yy",},
+  ],
 }
