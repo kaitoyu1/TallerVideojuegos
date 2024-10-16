@@ -4,18 +4,6 @@ function scr_game_text(_text_id){
 	{
 		#region Dialogos Nivel 1
 		
-		case "Dialogo_img_1":
-		scr_text("Estos son tus primeros momentos con vida…")
-		break;
-		
-		case "Dialogo_img_2":
-		scr_text("Pareces feliz…")
-		break;
-		
-		case "Dialogo_img_3" :
-		scr_text("Espero dure para siempre")
-		break;
-		
 		case "obj_cubos_des":
 		scr_text("oh, cubos...", "Player");
 		break;

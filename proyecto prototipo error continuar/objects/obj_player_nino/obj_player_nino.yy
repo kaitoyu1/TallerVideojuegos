@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"intrucciones_plataforma",
+  "%Name":"obj_player_nino",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"intrucciones_plataforma",
+  "name":"obj_player_nino",
   "overriddenProperties":[],
   "parent":{
-    "name":"draws",
-    "path":"folders/Objetos/nv_plataforms/draws.yy",
+    "name":"personaje",
+    "path":"folders/Objetos/personaje.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_indle_nino",
+    "path":"sprites/spr_indle_nino/spr_indle_nino.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
