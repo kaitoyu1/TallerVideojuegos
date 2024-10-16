@@ -2,4 +2,4 @@
 // Puede escribir su código en este editor
 
 if room = img_nv_1 {
-	
+}

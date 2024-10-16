@@ -23,7 +23,7 @@
   ],
   "name":"spr_indle_bebe",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"personaje",
     "path":"folders/Sprites/personaje.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":112,
-    "yorigin":160,
+    "yorigin":154,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
