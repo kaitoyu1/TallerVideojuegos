@@ -11,5 +11,7 @@ else
 
 if( global.contador == 14 )
 {
-	room_goto(nv_tutorial);	
+	global.rec += 1;
+	room_goto(nv_tutorial);
+
 }

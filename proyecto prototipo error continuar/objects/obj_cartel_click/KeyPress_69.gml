@@ -3,10 +3,11 @@
 
 if colision {
 	if global.rec == 2{
-		global.rec += 1;
+		
 		room_goto(intrucciones_nv_click);
 	}else{
 	text_id = "obj_libro"
 	create_textbox(text_id);
+	//instance_create_depth(0,0,-9999,bebedormir)
 	}
 }
