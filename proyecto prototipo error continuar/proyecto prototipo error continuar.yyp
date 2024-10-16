@@ -75,7 +75,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
@@ -284,9 +284,13 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+<<<<<<< HEAD
     {"roomId":{"name":"img_nv_1","path":"rooms/img_nv_1/img_nv_1.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+=======
+>>>>>>> 8398fd13e12af3886e75749f4ec6cb8fd777b72e
     {"roomId":{"name":"nv_mini_plataforma","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},},
+    {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"roomId":{"name":"nv_mini_click","path":"rooms/nv_mini_click/nv_mini_click.yy",},},
     {"roomId":{"name":"nv_tutorial","path":"rooms/nv_tutorial/nv_tutorial.yy",},},
     {"roomId":{"name":"intrucciones_nv_click","path":"rooms/intrucciones_nv_click/intrucciones_nv_click.yy",},},

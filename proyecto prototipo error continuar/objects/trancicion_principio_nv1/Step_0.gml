@@ -1,5 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+<<<<<<< HEAD
 /*
 if room == img_nv_1 {
 	
@@ -14,3 +15,8 @@ if room == img_nv_1 {
 		cont += 1
 	}
 }
+=======
+
+if room = img_nv_1 {
+}
+>>>>>>> 8398fd13e12af3886e75749f4ec6cb8fd777b72e
