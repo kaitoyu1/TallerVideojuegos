@@ -3,6 +3,6 @@
 image_alpha += fadespeed
 
 if image_alpha >= 1 {
-	text_id = "Dialogo_img_1"
-		create_textbox(text_id)
+	
+		room_goto(nv_nino)
 }

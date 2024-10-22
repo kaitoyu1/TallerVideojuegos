@@ -25,6 +25,7 @@
     {"name":"inst_7C7A6224","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_98D8E50","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_3203BC41","path":"rooms/nv_nino/nv_nino.yy",},
+    {"name":"inst_4D1F0DE5","path":"rooms/nv_nino/nv_nino.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -48,6 +49,7 @@
         {"$GMRInstance":"","%Name":"inst_7C7A6224","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7C7A6224","objectId":{"name":"obj_muros","path":"objects/obj_muros/obj_muros.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-21.725624,"scaleX":0.28125,"scaleY":2.140625,"x":1887.7153,"y":385.874,},
         {"$GMRInstance":"","%Name":"inst_98D8E50","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_98D8E50","objectId":{"name":"obj_muros","path":"objects/obj_muros/obj_muros.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":20.669851,"scaleX":0.20914598,"scaleY":0.71875,"x":1886.8795,"y":390.5988,},
         {"$GMRInstance":"","%Name":"inst_3203BC41","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3203BC41","objectId":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":189.86768,"y":511.88715,},
+        {"$GMRInstance":"","%Name":"inst_4D1F0DE5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4D1F0DE5","objectId":{"name":"contador","path":"objects/contador/contador.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4192.0,"y":32.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_34EDAE75","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_34EDAE75","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_animal","path":"sprites/spr_animal/spr_animal.yy",},"x":920.0,"y":327.00003,},
