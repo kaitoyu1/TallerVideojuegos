@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Peluche",
+  "%Name":"Snd_Paguinas",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.104,
-  "name":"Peluche",
+  "duration":1.368,
+  "name":"Snd_Paguinas",
   "parent":{
-    "name":"Sonidos nv1",
-    "path":"folders/Sonidos/Sonidos nv1.yy",
+    "name":"Sonidos Tutorial",
+    "path":"folders/Sonidos/Sonidos Tutorial.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Peluche.mp3",
+  "soundFile":"Snd_Paguinas.mp3",
   "type":0,
   "volume":1.0,
 }

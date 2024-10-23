@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Destacador",
+  "%Name":"Musica_Level_1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.744,
-  "name":"Destacador",
+  "duration":32.600815,
+  "name":"Musica_Level_1",
   "parent":{
-    "name":"Sonidos nv1",
-    "path":"folders/Sonidos/Sonidos nv1.yy",
+    "name":"Sonidos Nv 1",
+    "path":"folders/Sonidos/Sonidos Nv 1.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Destacador.mp3",
+  "soundFile":"Musica_Level_1.mp3",
   "type":0,
-  "volume":1.0,
+  "volume":0.36,
 }

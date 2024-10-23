@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Paguinas",
+  "%Name":"Snd_Motor",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.368,
-  "name":"Paguinas",
+  "duration":3.186917,
+  "name":"Snd_Motor",
   "parent":{
-    "name":"Sonidos nv1",
-    "path":"folders/Sonidos/Sonidos nv1.yy",
+    "name":"Sonidos Nv 1",
+    "path":"folders/Sonidos/Sonidos Nv 1.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Paguinas.mp3",
+  "soundFile":"Snd_Motor.mp3",
   "type":0,
   "volume":1.0,
 }

@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Memoria_Conseguida",
+  "%Name":"Snd_Memoria_Conseguida",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,16 +10,16 @@
   "compression":0,
   "conversionMode":0,
   "duration":1.344,
-  "name":"Memoria_Conseguida",
+  "name":"Snd_Memoria_Conseguida",
   "parent":{
-    "name":"Sonidos nv1",
-    "path":"folders/Sonidos/Sonidos nv1.yy",
+    "name":"Sonidos Tutorial",
+    "path":"folders/Sonidos/Sonidos Tutorial.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Memoria_Conseguida.mp3",
+  "soundFile":"Snd_Memoria_Conseguida.mp3",
   "type":0,
   "volume":1.0,
 }

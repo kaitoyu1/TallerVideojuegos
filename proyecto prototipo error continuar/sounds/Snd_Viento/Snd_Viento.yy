@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Viento",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":8.751,
+  "name":"Snd_Viento",
+  "parent":{
+    "name":"Sonidos Nv 1",
+    "path":"folders/Sonidos/Sonidos Nv 1.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Viento.mp3",
+  "type":0,
+  "volume":1.0,
+}

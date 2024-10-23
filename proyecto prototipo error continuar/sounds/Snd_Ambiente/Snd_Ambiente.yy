@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Cubos",
+  "%Name":"Snd_Ambiente",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.56,
-  "name":"Cubos",
+  "duration":47.438366,
+  "name":"Snd_Ambiente",
   "parent":{
-    "name":"Sonidos nv1",
-    "path":"folders/Sonidos/Sonidos nv1.yy",
+    "name":"Sonidos Nv 1",
+    "path":"folders/Sonidos/Sonidos Nv 1.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Cubos.mp3",
+  "soundFile":"Snd_Ambiente.mp3",
   "type":0,
-  "volume":1.0,
+  "volume":0.3,
 }

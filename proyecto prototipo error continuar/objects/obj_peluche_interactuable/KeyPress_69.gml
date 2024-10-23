@@ -7,6 +7,7 @@ if colision{
 		global.rec += 1
 		text_id = "obj_peluche_sinG"
 		create_textbox(text_id)
+		audio_play_sound(Snd_Peluche, 0, false)
 	}
 	text_id = "obj_peluche_conG"
 	create_textbox(text_id)
