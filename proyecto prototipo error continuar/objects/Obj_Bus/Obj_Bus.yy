@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Pasos_Arena",
-  "eventList":[],
+  "%Name":"Obj_Bus",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Pasos_Arena",
+  "name":"Obj_Bus",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -27,10 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_Sensor",
-    "path":"sprites/Spr_Sensor/Spr_Sensor.yy",
+  "spriteId":null,
+  "spriteMaskId":{
+    "name":"Spr_Arena",
+    "path":"sprites/Spr_Arena/Spr_Arena.yy",
   },
-  "spriteMaskId":null,
   "visible":true,
 }
