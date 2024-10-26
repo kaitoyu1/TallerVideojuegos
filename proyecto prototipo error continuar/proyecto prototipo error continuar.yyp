@@ -79,7 +79,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
@@ -107,6 +107,7 @@
     {"id":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},},
     {"id":{"name":"obj_cubos_interactuable","path":"objects/obj_cubos_interactuable/obj_cubos_interactuable.yy",},},
     {"id":{"name":"obj_menu_pause","path":"objects/obj_menu_pause/obj_menu_pause.yy",},},
+    {"id":{"name":"obj_muelte","path":"objects/obj_muelte/obj_muelte.yy",},},
     {"id":{"name":"obj_muros","path":"objects/obj_muros/obj_muros.yy",},},
     {"id":{"name":"obj_nube","path":"objects/obj_nube/obj_nube.yy",},},
     {"id":{"name":"obj_ojo1_1","path":"objects/obj_ojo1_1/obj_ojo1_1.yy",},},
@@ -120,6 +121,7 @@
     {"id":{"name":"obj_playe_plataforma","path":"objects/obj_playe_plataforma/obj_playe_plataforma.yy",},},
     {"id":{"name":"obj_player_bebe_plataforma","path":"objects/obj_player_bebe_plataforma/obj_player_bebe_plataforma.yy",},},
     {"id":{"name":"obj_player_bebe","path":"objects/obj_player_bebe/obj_player_bebe.yy",},},
+    {"id":{"name":"obj_player_nino_plataforma","path":"objects/obj_player_nino_plataforma/obj_player_nino_plataforma.yy",},},
     {"id":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_prueba_d","path":"objects/obj_prueba_d/obj_prueba_d.yy",},},
@@ -313,11 +315,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"nv_mini_plataforma","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"roomId":{"name":"nv_nino","path":"rooms/nv_nino/nv_nino.yy",},},
     {"roomId":{"name":"nv_tutorial","path":"rooms/nv_tutorial/nv_tutorial.yy",},},
     {"roomId":{"name":"nv_mini_click","path":"rooms/nv_mini_click/nv_mini_click.yy",},},
-    {"roomId":{"name":"nv_mini_plataforma","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},},
     {"roomId":{"name":"intrucciones_nv_click","path":"rooms/intrucciones_nv_click/intrucciones_nv_click.yy",},},
     {"roomId":{"name":"Memorias","path":"rooms/Memorias/Memorias.yy",},},
     {"roomId":{"name":"intrucciones_nv_plataforma","path":"rooms/intrucciones_nv_plataforma/intrucciones_nv_plataforma.yy",},},
