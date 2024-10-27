@@ -315,8 +315,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"nv_mini_plataforma","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"nv_mini_plataforma","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},},
     {"roomId":{"name":"nv_nino","path":"rooms/nv_nino/nv_nino.yy",},},
     {"roomId":{"name":"nv_tutorial","path":"rooms/nv_tutorial/nv_tutorial.yy",},},
     {"roomId":{"name":"nv_mini_click","path":"rooms/nv_mini_click/nv_mini_click.yy",},},
