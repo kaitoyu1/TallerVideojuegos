@@ -12,6 +12,7 @@
     {"name":"inst_72375F91","path":"rooms/pregunta_1/pregunta_1.yy",},
     {"name":"inst_5C22A883","path":"rooms/pregunta_1/pregunta_1.yy",},
     {"name":"inst_61B2A30A","path":"rooms/pregunta_1/pregunta_1.yy",},
+    {"name":"inst_4171481D","path":"rooms/pregunta_1/pregunta_1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -22,6 +23,7 @@
         {"$GMRInstance":"","%Name":"inst_72375F91","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_72375F91","objectId":{"name":"respuesta_buena","path":"objects/respuesta_buena/respuesta_buena.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":2.0,"x":832.0,"y":256.0,},
         {"$GMRInstance":"","%Name":"inst_5C22A883","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C22A883","objectId":{"name":"respuesta_mala","path":"objects/respuesta_mala/respuesta_mala.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":2.5,"x":832.0,"y":480.0,},
         {"$GMRInstance":"","%Name":"inst_61B2A30A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_61B2A30A","objectId":{"name":"contador_respuestas_buenas","path":"objects/contador_respuestas_buenas/contador_respuestas_buenas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1440.0,"y":384.0,},
+        {"$GMRInstance":"","%Name":"inst_4171481D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4171481D","objectId":{"name":"obj_salir","path":"objects/obj_salir/obj_salir.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1440.0,"y":480.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite52","path":"sprites/Sprite52/Sprite52.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

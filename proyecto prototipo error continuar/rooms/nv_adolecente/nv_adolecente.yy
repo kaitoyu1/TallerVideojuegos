@@ -18,6 +18,8 @@
     {"name":"inst_194BB54C","path":"rooms/nv_adolecente/nv_adolecente.yy",},
     {"name":"inst_5F4D1E6F","path":"rooms/nv_adolecente/nv_adolecente.yy",},
     {"name":"inst_4FB4E961","path":"rooms/nv_adolecente/nv_adolecente.yy",},
+    {"name":"inst_7953A1CC","path":"rooms/nv_adolecente/nv_adolecente.yy",},
+    {"name":"inst_43F8732D","path":"rooms/nv_adolecente/nv_adolecente.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -41,6 +43,8 @@
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_1E5D563F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1E5D563F","objectId":{"name":"obj_estudiantes","path":"objects/obj_estudiantes/obj_estudiantes.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1058.0,"y":167.0,},
         {"$GMRInstance":"","%Name":"inst_3C194C6D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3C194C6D","objectId":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.6899998,"x":511.0,"y":553.0,},
+        {"$GMRInstance":"","%Name":"inst_7953A1CC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7953A1CC","objectId":{"name":"obj_settings","path":"objects/obj_settings/obj_settings.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":288.0,},
+        {"$GMRInstance":"","%Name":"inst_43F8732D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_43F8732D","objectId":{"name":"obj_contador_preguntas","path":"objects/obj_contador_preguntas/obj_contador_preguntas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":384.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite48","path":"sprites/Sprite48/Sprite48.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
