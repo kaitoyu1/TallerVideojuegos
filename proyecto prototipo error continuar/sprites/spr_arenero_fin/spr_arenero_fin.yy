@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_animal",
+  "%Name":"spr_arenero_fin",
   "bboxMode":0,
-  "bbox_bottom":246,
-  "bbox_left":23,
-  "bbox_right":234,
-  "bbox_top":16,
+  "bbox_bottom":392,
+  "bbox_left":4,
+  "bbox_right":395,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8974402c-fa32-42b2-83b5-2901bebcde41","name":"8974402c-fa32-42b2-83b5-2901bebcde41","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3052e438-07f1-46b4-82f0-2bfa1aef08ae","name":"3052e438-07f1-46b4-82f0-2bfa1aef08ae","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":250,
+  "height":400,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e9a232da-e205-40e4-920b-bcc58893e678","blendMode":0,"displayName":"default","isLocked":false,"name":"e9a232da-e205-40e4-920b-bcc58893e678","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"d79dad82-b91f-4ac5-be31-1c12581be2f9","blendMode":0,"displayName":"default","isLocked":false,"name":"d79dad82-b91f-4ac5-be31-1c12581be2f9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_animal",
+  "name":"spr_arenero_fin",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_animal",
+    "%Name":"spr_arenero_fin",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_animal",
+    "name":"spr_arenero_fin",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8974402c-fa32-42b2-83b5-2901bebcde41","path":"sprites/spr_animal/spr_animal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d64cd172-8799-42ab-8e8a-14709f1a3161","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3052e438-07f1-46b4-82f0-2bfa1aef08ae","path":"sprites/spr_arenero_fin/spr_arenero_fin.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3de70adb-9b5b-4493-8adf-1ea03857bfd1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":250,
+  "width":400,
 }
