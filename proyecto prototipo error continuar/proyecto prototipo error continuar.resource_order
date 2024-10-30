@@ -75,7 +75,7 @@
     {"name":"__scribble_constants","order":1,"path":"scripts/__scribble_constants/__scribble_constants.yy",},
     {"name":"scribble","order":2,"path":"scripts/scribble/scribble.yy",},
     {"name":"Musica_Level_1","order":1,"path":"sounds/Musica_Level_1/Musica_Level_1.yy",},
-    {"name":"Paguina","order":2,"path":"sounds/Paguina/Paguina.yy",},
+    {"name":"Snd_Paguina_2","order":2,"path":"sounds/Snd_Paguina_2/Snd_Paguina_2.yy",},
     {"name":"Snd_Ambiente","order":3,"path":"sounds/Snd_Ambiente/Snd_Ambiente.yy",},
     {"name":"Snd_Pasos_De_Arena","order":2,"path":"sounds/Snd_Pasos_De_Arena/Snd_Pasos_De_Arena.yy",},
     {"name":"Snd_Rueda","order":5,"path":"sounds/Snd_Rueda/Snd_Rueda.yy",},

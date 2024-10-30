@@ -1,2 +1,2 @@
-segundos = 3;
+segundos = 20;
 alarm[0] = 60;

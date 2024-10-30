@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Paguinas",
+  "%Name":"Snd_Paguina_1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":1.368,
-  "name":"Snd_Paguinas",
+  "name":"Snd_Paguina_1",
   "parent":{
     "name":"Sonidos Tutorial",
     "path":"folders/Sonidos/Sonidos Tutorial.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Paguinas.mp3",
+  "soundFile":"Snd_Paguina_1.mp3",
   "type":0,
   "volume":1.0,
 }

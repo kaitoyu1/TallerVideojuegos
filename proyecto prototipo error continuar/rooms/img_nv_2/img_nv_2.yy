@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"v1",
+  "$GMRoom":"",
   "%Name":"img_nv_2",
   "creationCodeFile":"",
   "inheritCode":false,

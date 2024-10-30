@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Silla",
+  "%Name":"Snd_Silla",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":1.541208,
-  "name":"Silla",
+  "name":"Snd_Silla",
   "parent":{
     "name":"Sonidos Nv 2",
     "path":"folders/Sonidos/Sonidos Nv 2.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Silla.mp3",
+  "soundFile":"Snd_Silla.mp3",
   "type":0,
   "volume":1.0,
 }
