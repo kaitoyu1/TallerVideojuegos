@@ -14,3 +14,4 @@ if !audio_is_playing(Snd_Motor){
 			audio_sound_gain(sound_id, volume, 0);
 		} 
 }
+colision = false

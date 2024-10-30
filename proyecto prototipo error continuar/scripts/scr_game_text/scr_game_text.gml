@@ -24,11 +24,16 @@ function scr_game_text(_text_id){
 		scr_text("Tu cuaderno de dibujo. Lleno de lineas torcidas y caritas sonrientes. Una sonrisa lo dice todo!", "Player");
 		break;
 		
-		case "dialogo_fin_nv": //dialogo fin de nivel trancicion...
-		scr_text("")
-		break;
-			
 		#endregion
+		
+		#region Dialogos nuvel 2
+		
+		case "obj_arenero": 
+		scr_text("Cuanta arena! Podria hacer un castillo!... ¡o un pastel!  … iugh…", "Player")
+		break;
+		
+		#endregion
+		
 	}
 
 }

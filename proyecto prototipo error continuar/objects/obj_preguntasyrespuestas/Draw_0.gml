@@ -5,10 +5,11 @@ draw_set_color(c_silver)//cualquiera menos negro que se ve feo
 
 if room == pregunta_1 {
 	//texto de la pregunta lado izquierdo del cuaderno.
-	draw_text(120 , 190 , "Pregunta numero 1\nNose:");
+	draw_text(120 , 190 , "Pregunta numero 1\n -El sol es una estrella?");
 	//las respuestas al lado dercho que serian 2
-	draw_text(860, 255, "Respuesta numero 1:\ninsesrtar respuesta jsjsjs")
-	draw_text(860,480, "Respuesta numero 2:\nInsestar respuesta generica XD")
+	draw_text(860, 255, "Respuesta numero 1:\n - Si")
+	draw_text(860,480, "Respuesta numero 2:\n - No")
+	
 }
 if room == pregunta_2 {
 	//texto de la pregunta lado izquierdo del cuaderno.

@@ -2,9 +2,13 @@
 // Puede escribir su código en este editor
 if colision{
 	
-	if sprite_index != spr_arenero
-	
-	
+	if sprite_index != spr_arenero_fin
+	{
+		sprite_index = spr_arenero_fin
+		text_id = "obj_arenero"
+		create_textbox(text_id)
+	}
+}
 	
 	
 	/*if sprite_index != spr_gorro //sprite oso con el gorro
@@ -17,4 +21,3 @@ if colision{
 	}
 	text_id = "obj_peluche_conG"
 	create_textbox(text_id)*/
-}
