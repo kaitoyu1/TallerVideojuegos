@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"v1",
+  "$GMRoom":"",
   "%Name":"nv_adulto",
   "creationCodeFile":"",
   "inheritCode":false,
