@@ -2,12 +2,12 @@
   "$GMObject":"",
   "%Name":"obj_cartel_click",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_cartel_click",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Mini Juego Click  \\n Presione E",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Mini Juego Click  \\n Presione E",},
   ],
   "parent":{
     "name":"Carteles",

@@ -1,0 +1,1 @@
+audio_pause_sound(Musica_Nivel_2)

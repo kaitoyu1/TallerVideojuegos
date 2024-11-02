@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.56,
+  "duration":0.444083,
   "name":"Snd_Cubos",
   "parent":{
     "name":"Sonidos Tutorial",

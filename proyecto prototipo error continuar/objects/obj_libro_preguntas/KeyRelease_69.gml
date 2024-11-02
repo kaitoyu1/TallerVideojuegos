@@ -7,18 +7,14 @@ if colision {
 	}
 	if global.hojas == 2 {
 		room_goto(pregunta_2)
-		audio_play_sound(Snd_Paguina_2, 0, false)
 	}
 	if global.hojas == 3 {
 		room_goto(pregunta_3)
-		audio_play_sound(Snd_Paguina_2, 0, false)
 	}
 	if global.hojas == 4 {
 		room_goto(pregunta_4)
-		audio_play_sound(Snd_Paguina_2, 0, false)
 	}
 	if global.hojas == 5 {
 		room_goto(pregunta_5)
-		audio_play_sound(Snd_Paguina_2, 0, false)
 	}
 }

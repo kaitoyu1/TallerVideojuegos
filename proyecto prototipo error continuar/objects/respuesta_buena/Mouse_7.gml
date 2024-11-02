@@ -2,18 +2,22 @@
 // Puede escribir su código en este editor
 if room == pregunta_1{
 	global.rep_buenas += 1
+	audio_play_sound(Snd_Paguina_2, 0, false)
 	room_goto(pregunta_2)
 }
 if room == pregunta_2{
 	global.rep_buenas += 1
+	audio_play_sound(Snd_Paguina_2, 0, false)
 	room_goto(pregunta_3)
 }
 if room == pregunta_3{
 	global.rep_buenas += 1
+	audio_play_sound(Snd_Paguina_2, 0, false)
 	room_goto(pregunta_4)
 }
 if room == pregunta_4{
 	global.rep_buenas += 1
+	audio_play_sound(Snd_Paguina_2, 0, false)
 	room_goto(pregunta_5)
 }
 if room == pregunta_5{

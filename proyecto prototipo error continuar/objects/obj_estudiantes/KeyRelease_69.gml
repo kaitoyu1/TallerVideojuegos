@@ -5,3 +5,4 @@ if colision {
 	
 	
 }
+audio_play_sound(Snd_Murmullos, 0, false)

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Telefono",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":26.749374,
+  "name":"Snd_Telefono",
+  "parent":{
+    "name":"Sonidos Nv 3",
+    "path":"folders/Sonidos/Sonidos Nv 3.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Telefono.mp3",
+  "type":0,
+  "volume":1.0,
+}
