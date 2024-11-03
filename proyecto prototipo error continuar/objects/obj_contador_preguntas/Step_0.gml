@@ -18,4 +18,7 @@ if room == pregunta_4{
 if room == pregunta_5{
 	global.hojas = 5
 }
+if room == pregunta_6{
+	global.hojas = 6
+}
 

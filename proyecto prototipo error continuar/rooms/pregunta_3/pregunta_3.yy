@@ -1,21 +1,21 @@
 {
-  "$GMRoom":"v1",
+  "$GMRoom":"",
   "%Name":"pregunta_3",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_45AD740A","path":"rooms/pregunta_3/pregunta_3.yy",},
-    {"name":"inst_34AF42C4","path":"rooms/pregunta_3/pregunta_3.yy",},
     {"name":"inst_2759E701","path":"rooms/pregunta_3/pregunta_3.yy",},
+    {"name":"inst_66FA5715","path":"rooms/pregunta_3/pregunta_3.yy",},
+    {"name":"inst_2430180","path":"rooms/pregunta_3/pregunta_3.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_45AD740A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_45AD740A","objectId":{"name":"respuesta_mala","path":"objects/respuesta_mala/respuesta_mala.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":3.0,"x":832.0,"y":256.0,},
-        {"$GMRInstance":"v1","%Name":"inst_34AF42C4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_34AF42C4","objectId":{"name":"respuesta_buena","path":"objects/respuesta_buena/respuesta_buena.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":3.0,"x":832.0,"y":480.0,},
-        {"$GMRInstance":"v1","%Name":"inst_2759E701","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2759E701","objectId":{"name":"obj_salir","path":"objects/obj_salir/obj_salir.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1376.0,"y":128.0,},
+        {"$GMRInstance":"","%Name":"inst_2759E701","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2759E701","objectId":{"name":"obj_salir","path":"objects/obj_salir/obj_salir.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1376.0,"y":128.0,},
+        {"$GMRInstance":"","%Name":"inst_66FA5715","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_66FA5715","objectId":{"name":"respuesta_buena","path":"objects/respuesta_buena/respuesta_buena.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.5304348,"scaleY":1.0,"x":736.0,"y":512.0,},
+        {"$GMRInstance":"","%Name":"inst_2430180","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2430180","objectId":{"name":"respuesta_mala","path":"objects/respuesta_mala/respuesta_mala.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.5304348,"scaleY":2.0391307,"x":736.0,"y":33.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite52","path":"sprites/Sprite52/Sprite52.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

@@ -22,5 +22,9 @@ if room == pregunta_4{
 }
 if room == pregunta_5{
 	global.rep_buenas += 1
+	room_goto(pregunta_6)
+}
+if room == pregunta_6 {
+	global.rep_buenas += 1
 	room_goto(nv_adulto)
 }
