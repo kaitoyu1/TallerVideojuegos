@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"click",
-    "path":"folders/Sprites/click.yy",
+    "path":"folders/Sprites/nv_bebe/click.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

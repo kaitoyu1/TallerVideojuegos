@@ -28,7 +28,7 @@
   "origin":1,
   "parent":{
     "name":"carteles",
-    "path":"folders/Sprites/carteles.yy",
+    "path":"folders/Sprites/nv_bebe/carteles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
