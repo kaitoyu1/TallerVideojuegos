@@ -104,6 +104,8 @@
     {"name":"spr_bus","order":7,"path":"sprites/spr_bus/spr_bus.yy",},
     {"name":"spr_caminar_nino","order":1,"path":"sprites/spr_caminar_nino/spr_caminar_nino.yy",},
     {"name":"spr_escaleras","order":8,"path":"sprites/spr_escaleras/spr_escaleras.yy",},
+    {"name":"spr_fn_nv_2_feliz","order":9,"path":"sprites/spr_fn_nv_2_feliz/spr_fn_nv_2_feliz.yy",},
+    {"name":"spr_fn_nv_2_malo","order":10,"path":"sprites/spr_fn_nv_2_malo/spr_fn_nv_2_malo.yy",},
     {"name":"spr_indle_bebe","order":1,"path":"sprites/spr_indle_bebe/spr_indle_bebe.yy",},
     {"name":"spr_rama","order":2,"path":"sprites/spr_rama/spr_rama.yy",},
     {"name":"spr_resfalin","order":4,"path":"sprites/spr_resfalin/spr_resfalin.yy",},

@@ -1,5 +1,8 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 if colision {
-	room_goto(nv_adolecente)
+	
+	with(obj_transition_controller){
+		start_specific_transition("NV_2_MALO")
+	}
 }
