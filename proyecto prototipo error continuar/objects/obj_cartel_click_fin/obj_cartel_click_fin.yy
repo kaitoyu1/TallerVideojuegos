@@ -2,18 +2,18 @@
   "$GMObject":"",
   "%Name":"obj_cartel_click_fin",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_playe_plataforma","path":"objects/obj_playe_plataforma/obj_playe_plataforma.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_nino_plataforma","path":"objects/obj_player_nino_plataforma/obj_player_nino_plataforma.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_playe_plataforma","path":"objects/obj_playe_plataforma/obj_playe_plataforma.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player_nino_plataforma","path":"objects/obj_player_nino_plataforma/obj_player_nino_plataforma.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_cartel_click_fin",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Ir a Tutorial \\n Presione E",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Ir a Tutorial \\n Presione E",},
   ],
   "parent":{
-    "name":"Carteles",
-    "path":"folders/Objetos/Carteles.yy",
+    "name":"plataformas",
+    "path":"folders/Objetos/nv_nino/nv_plataforms/plataformas.yy",
   },
   "parentObjectId":{
     "name":"obj_cartel_parent",

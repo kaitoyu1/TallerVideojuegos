@@ -3,5 +3,8 @@
 
 if colision {
 
-	room_goto(nv_tutorial)
+	with(obj_transition_controller){
+		start_specific_transition("NV_2_FELIZ")
+	}
+	
 }

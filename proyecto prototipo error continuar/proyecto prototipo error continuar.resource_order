@@ -54,6 +54,7 @@
     {"name":"Lvl_5","order":4,"path":"objects/Lvl_5/Lvl_5.yy",},
     {"name":"Lvl_tutorial","order":5,"path":"objects/Lvl_tutorial/Lvl_tutorial.yy",},
     {"name":"Obj_Bus","order":1,"path":"objects/Obj_Bus/Obj_Bus.yy",},
+    {"name":"obj_cartel_click_fin","order":2,"path":"objects/obj_cartel_click_fin/obj_cartel_click_fin.yy",},
     {"name":"obj_cartel_click","order":2,"path":"objects/obj_cartel_click/obj_cartel_click.yy",},
     {"name":"obj_contador_final_bueno","order":6,"path":"objects/obj_contador_final_bueno/obj_contador_final_bueno.yy",},
     {"name":"obj_contador_preguntas","order":2,"path":"objects/obj_contador_preguntas/obj_contador_preguntas.yy",},
