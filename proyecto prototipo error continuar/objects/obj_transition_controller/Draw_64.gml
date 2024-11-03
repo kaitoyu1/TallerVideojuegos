@@ -21,7 +21,7 @@ if (playing) {
         var current_text = current_transition.dialog_data.texts[current_transition.current_dialog];
         
         // Configurar el texto
-        draw_set_font(fnt_dialogo);
+        draw_set_font(global.font_main);
         draw_set_halign(fa_center);
         draw_set_valign(fa_bottom);
         

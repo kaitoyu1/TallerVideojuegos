@@ -13,14 +13,14 @@ current_transition = noone;*/
 
 transitions = {
     // Transición con diálogos
-    RES_DIALOG: create_transition_data(
-        spr_escaleras,
-        3/60,
-        nv_mini_plataforma,
-        {
-            texts: ["¡Cuidado con las escaleras!", "Parece resbaloso..."],
+    BEBE_POV: create_transition_data(
+        spr_bebe_pov,
+        15/60,
+        nv_nino
+       /* {
+            texts: ["Estos son tus primeros momentos con vida…"],
             duration: 60
-        }
+        }*/
     ),
     // Transición sin diálogos
     RES: create_transition_data(
@@ -33,3 +33,4 @@ transitions = {
 playing = false;
 current_transition = noone;
 dialog_timer = 0;
+animation_finished = false;

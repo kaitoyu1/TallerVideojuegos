@@ -4,5 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(nv_tutorial);
+with(obj_transition_controller) {
+		start_specific_transition("BEBE_POV");
+	}
 
