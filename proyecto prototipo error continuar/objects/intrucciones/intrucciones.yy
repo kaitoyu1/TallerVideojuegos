@@ -2,15 +2,15 @@
   "$GMObject":"",
   "%Name":"intrucciones",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"intrucciones",
   "overriddenProperties":[],
   "parent":{
     "name":"draws",
-    "path":"folders/Objetos/nv_clicks/draws.yy",
+    "path":"folders/Objetos/nv_infancia/nv_clicks/draws.yy",
   },
   "parentObjectId":null,
   "persistent":false,

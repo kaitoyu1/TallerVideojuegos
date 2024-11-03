@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_muelte",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_nino_plataforma","path":"objects/obj_player_nino_plataforma/obj_player_nino_plataforma.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player_nino_plataforma","path":"objects/obj_player_nino_plataforma/obj_player_nino_plataforma.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_muelte",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"plataformas",
+    "path":"folders/Objetos/nv_nino/nv_plataforms/plataformas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

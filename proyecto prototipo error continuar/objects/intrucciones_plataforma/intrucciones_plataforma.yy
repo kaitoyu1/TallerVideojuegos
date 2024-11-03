@@ -2,15 +2,15 @@
   "$GMObject":"",
   "%Name":"intrucciones_plataforma",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"intrucciones_plataforma",
   "overriddenProperties":[],
   "parent":{
     "name":"draws",
-    "path":"folders/Objetos/nv_plataforms/draws.yy",
+    "path":"folders/Objetos/nv_nino/nv_plataforms/draws.yy",
   },
   "parentObjectId":null,
   "persistent":false,

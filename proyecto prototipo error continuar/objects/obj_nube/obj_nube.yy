@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"plataformas",
-    "path":"folders/Objetos/nv_plataforms/plataformas.yy",
+    "path":"folders/Objetos/nv_nino/nv_plataforms/plataformas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -2,15 +2,15 @@
   "$GMObject":"",
   "%Name":"obj_resfalin",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_resfalin",
   "overriddenProperties":[],
   "parent":{
-    "name":"nv_nino",
-    "path":"folders/Objetos/nv_nino.yy",
+    "name":"objetos intera",
+    "path":"folders/Objetos/nv_nino/objetos intera.yy",
   },
   "parentObjectId":{
     "name":"obj_cartel_parent",

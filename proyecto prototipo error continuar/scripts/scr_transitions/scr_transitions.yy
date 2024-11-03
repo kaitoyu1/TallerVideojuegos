@@ -1,12 +1,12 @@
 {
   "$GMScript":"",
-  "%Name":"scr_game_text",
+  "%Name":"scr_transitions",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_game_text",
+  "name":"scr_transitions",
   "parent":{
-    "name":"Dialog System",
-    "path":"folders/Dialog System.yy",
+    "name":"transiciones",
+    "path":"folders/transiciones.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

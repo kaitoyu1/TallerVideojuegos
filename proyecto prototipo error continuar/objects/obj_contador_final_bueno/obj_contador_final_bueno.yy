@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_contador_final_bueno",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_contador_final_bueno",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"seleccion de preguntas",
+    "path":"folders/Objetos/nv_adolecente/seleccion de preguntas.yy",
   },
   "parentObjectId":null,
   "persistent":true,

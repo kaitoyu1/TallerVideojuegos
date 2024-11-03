@@ -1,20 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_son_2",
+  "%Name":"obj_transition_controller",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_son_2",
+  "name":"obj_transition_controller",
   "overriddenProperties":[],
   "parent":{
-    "name":"clicks",
-    "path":"folders/Objetos/nv_infancia/nv_clicks/clicks.yy",
+    "name":"transiciones",
+    "path":"folders/transiciones.yy",
   },
-  "parentObjectId":{
-    "name":"obj_padre_pintar",
-    "path":"objects/obj_padre_pintar/obj_padre_pintar.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +31,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Circulo",
-    "path":"sprites/Circulo/Circulo.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

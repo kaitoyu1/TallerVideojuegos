@@ -6,8 +6,8 @@
   "name":"Object_Arena",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"sonidos",
+    "path":"folders/Objetos/nv_nino/sonidos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

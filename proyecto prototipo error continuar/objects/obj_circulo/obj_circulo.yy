@@ -6,8 +6,8 @@
   "name":"obj_circulo",
   "overriddenProperties":[],
   "parent":{
-    "name":"nv_adolecente",
-    "path":"folders/Objetos/nv_adolecente.yy",
+    "name":"nini juego",
+    "path":"folders/Objetos/nv_adolecente/nini juego.yy",
   },
   "parentObjectId":null,
   "persistent":false,

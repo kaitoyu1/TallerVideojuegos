@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_ojo1_2",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_ojo1_2",
   "overriddenProperties":[],
   "parent":{
     "name":"clicks",
-    "path":"folders/Objetos/nv_clicks/clicks.yy",
+    "path":"folders/Objetos/nv_infancia/nv_clicks/clicks.yy",
   },
   "parentObjectId":{
     "name":"obj_padre_pintar",
