@@ -1,14 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player_bebe_plataforma",
+  "%Name":"obj_player_adolecente",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_nube","path":"objects/obj_nube/obj_nube.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_cartel_click_fin","path":"objects/obj_cartel_click_fin/obj_cartel_click_fin.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_player_bebe_plataforma",
+  "name":"obj_player_adolecente",
   "overriddenProperties":[],
   "parent":{
     "name":"personaje",
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_indle_bebe",
-    "path":"sprites/spr_indle_bebe/spr_indle_bebe.yy",
+    "name":"spr_indle_adolecente",
+    "path":"sprites/spr_indle_adolecente/spr_indle_adolecente.yy",
   },
   "spriteMaskId":null,
   "visible":true,
