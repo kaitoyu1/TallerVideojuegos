@@ -1,7 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-if (playing) {
+if (playing && transition_active) {
     var gui_width = display_get_gui_width();
     var gui_height = display_get_gui_height();
     

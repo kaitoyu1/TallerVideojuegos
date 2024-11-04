@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_play_cutscene",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_play_cutscene",
+  "parent":{
+    "name":"transiciones",
+    "path":"folders/transiciones.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

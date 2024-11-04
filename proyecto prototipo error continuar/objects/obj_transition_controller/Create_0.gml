@@ -10,17 +10,17 @@
 
 playing = false;
 current_transition = noone;*/
-
+/*
 transitions = {
     // Transición con diálogos
     BEBE_POV: create_transition_data(
         spr_bebe_pov,
-        15/60,
-        nv_nino
-       /* {
-            texts: ["Estos son tus primeros momentos con vida…"],
+        0.1,
+        nv_nino, 
+        {
+            texts: ["Estos son tus primeros momentos con vida…", "dialogo 2", "dialogo 3"],
             duration: 60
-        }*/
+        }
     ),
     // Transición sin diálogos
     RES: create_transition_data(
@@ -33,4 +33,21 @@ transitions = {
 playing = false;
 current_transition = noone;
 dialog_timer = 0;
-animation_finished = false;
+animation_finished = false;*/
+transitions = {
+
+	    BEBE_POV: create_transition_data(
+        spr_bebe_pov,
+        15/60,
+        nv_nino, 
+        {
+            texts: ["Estos son tus primeros momentos con vida…", "dialogo 2"],
+            duration: 240
+        }
+		)
+};
+
+playing = false;
+current_transition = noone;
+dialog_timer = 0;
+transition_active = false;

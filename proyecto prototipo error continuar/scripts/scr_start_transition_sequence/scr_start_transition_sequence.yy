@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_start_transition_sequence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_start_transition_sequence",
+  "parent":{
+    "name":"transiciones",
+    "path":"folders/transiciones.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
