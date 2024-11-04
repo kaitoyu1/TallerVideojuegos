@@ -34,6 +34,10 @@ function scr_text(_text){
 			txtb_spr[page_number] = spr_Atextbox;
 			break;
 			
+			case  "Grupo":
+			speaker_sprite[page_number] = Sprite37;//por mientra este despues se va a cambiar?
+			txtb_spr[page_number] = spr_Atextbox;
+			break;
 
 			
 		}
