@@ -48,6 +48,29 @@ transitions = {
 			duration: 240
 		}
 	),
+	
+	ESCALERAS: create_transition_data(spr_escaleras,15/60,nv_mini_plataforma), //sin dialogos
+	
+	BUS: create_transition_data(spr_fn_nv_2_malo,15/60,transicion_a_adolecente,
+		{
+			texts: ["... :( “"],
+			duration: 240
+		}
+	),
+	RESFALIN: create_transition_data(spr_fn_nv_2_feliz,15/60,transicion_a_adolecente,
+		{
+			texts: ["Que bien la he pasado!"],
+			duration: 240
+		}
+	),
+	ADOLECENTE_INTRO: create_transition_data(spr_intro_nv3,15/60,nv_adolecente,
+		{
+			texts: ["Tras el paso del tiempo tus dias de curiosidad y descubrimiento se convirtieron en recuerdos", 
+			"a donde habra ido toda esa energia y optimismo?", "Tal vez la culpa fue de tu ligero problema de ansiedad", "Por que todo perdido su brillo?"],
+			duration: 240
+		}
+	)
+	
 };
 
 playing = false;

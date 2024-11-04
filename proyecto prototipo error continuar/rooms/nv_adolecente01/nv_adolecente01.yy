@@ -52,8 +52,8 @@
   ],
   "name":"nv_adolecente01",
   "parent":{
-    "name":"Etapas Vida",
-    "path":"folders/Salas/Etapas Vida.yy",
+    "name":"nv_adolecente",
+    "path":"folders/Salas/Etapas Vida/nv_adolecente.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

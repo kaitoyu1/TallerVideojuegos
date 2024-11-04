@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"v1",
+  "$GMRoom":"",
   "%Name":"nv_adulto",
   "creationCodeFile":"",
   "inheritCode":false,
@@ -13,8 +13,8 @@
   ],
   "name":"nv_adulto",
   "parent":{
-    "name":"Etapas Vida",
-    "path":"folders/Salas/Etapas Vida.yy",
+    "name":"nv_adulto",
+    "path":"folders/Salas/Etapas Vida/nv_adulto.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

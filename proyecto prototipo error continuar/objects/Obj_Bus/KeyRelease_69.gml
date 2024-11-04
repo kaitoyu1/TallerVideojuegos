@@ -3,6 +3,6 @@
 if colision {
 	
 	with(obj_transition_controller){
-		start_specific_transition("NV_2_MALO")
+		start_specific_transition("BUS")
 	}
 }

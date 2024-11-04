@@ -131,7 +131,6 @@
     {"name":"inst_59515F07","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_717EAE5B","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_F3BD5C6","path":"rooms/nv_nino/nv_nino.yy",},
-    {"name":"inst_5E543A98","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_218EE8CD","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_34581EF7","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_73D6E86B","path":"rooms/nv_nino/nv_nino.yy",},
@@ -157,6 +156,7 @@
     {"name":"inst_6CDD7542","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_36F9153A","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_43942FE2","path":"rooms/nv_nino/nv_nino.yy",},
+    {"name":"inst_2A0D8550","path":"rooms/nv_nino/nv_nino.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -166,8 +166,8 @@
     {"$GMRInstanceLayer":"","%Name":"juegos","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_717EAE5B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_717EAE5B","objectId":{"name":"obj_arenero","path":"objects/obj_arenero/obj_arenero.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3150.0,"y":265.0,},
         {"$GMRInstance":"","%Name":"inst_F3BD5C6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F3BD5C6","objectId":{"name":"obj_resfalin","path":"objects/obj_resfalin/obj_resfalin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":3624.0,"y":261.0,},
-        {"$GMRInstance":"","%Name":"inst_5E543A98","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5E543A98","objectId":{"name":"obj_settings","path":"objects/obj_settings/obj_settings.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4192.0,"y":96.0,},
         {"$GMRInstance":"","%Name":"inst_218EE8CD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_218EE8CD","objectId":{"name":"Obj_Bus","path":"objects/Obj_Bus/Obj_Bus.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2336.0,"y":96.0,},
+        {"$GMRInstance":"","%Name":"inst_2A0D8550","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A0D8550","objectId":{"name":"obj_transition_controller","path":"objects/obj_transition_controller/obj_transition_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4192.0,"y":160.0,},
       ],"layers":[],"name":"juegos","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_170A60F5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_170A60F5","objectId":{"name":"obj_muros","path":"objects/obj_muros/obj_muros.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":40.775234,"scaleX":0.28125,"scaleY":2.65625,"x":399.26453,"y":529.7557,},
@@ -327,8 +327,8 @@
   ],
   "name":"nv_nino",
   "parent":{
-    "name":"Etapas Vida",
-    "path":"folders/Salas/Etapas Vida.yy",
+    "name":"nv_niño",
+    "path":"folders/Salas/Etapas Vida/nv_niño.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
