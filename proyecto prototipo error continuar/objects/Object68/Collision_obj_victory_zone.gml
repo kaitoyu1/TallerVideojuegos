@@ -1,4 +1,3 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-colision = false
-ir_nivel = false
+can_win = true;

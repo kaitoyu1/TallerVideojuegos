@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_circulo",
+  "%Name":"obj_victory_zone",
   "eventList":[],
   "managed":true,
-  "name":"obj_circulo",
+  "name":"obj_victory_zone",
   "overriddenProperties":[],
   "parent":{
     "name":"nini juego",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_circulo",
-    "path":"sprites/spr_circulo/spr_circulo.yy",
+    "name":"spr_victory",
+    "path":"sprites/spr_victory/spr_victory.yy",
   },
   "spriteMaskId":null,
   "visible":true,

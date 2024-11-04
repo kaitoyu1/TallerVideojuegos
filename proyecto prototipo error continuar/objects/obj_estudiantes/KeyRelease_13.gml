@@ -1,4 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-colision = false
-ir_nivel = false
+if colision && ir_nivel{
+	room_goto(nv_mini_circulo)	
+}

@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_circulo",
-  "eventList":[],
+  "%Name":"obj_celular",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_circulo",
+  "name":"obj_celular",
   "overriddenProperties":[],
   "parent":{
-    "name":"nini juego",
-    "path":"folders/Objetos/nv_adolecente/nini juego.yy",
+    "name":"interactuables",
+    "path":"folders/Objetos/nv_adolecente/interactuables.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_cartel_parent",
+    "path":"objects/obj_cartel_parent/obj_cartel_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_circulo",
-    "path":"sprites/spr_circulo/spr_circulo.yy",
+    "name":"spr_celular",
+    "path":"sprites/spr_celular/spr_celular.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -57,6 +57,7 @@ function scr_game_text(_text_id){
 		scr_text("Hola","Grupo",-1)
 		break;
 		
+		#region preguntas grupo
 		case "pregunta_1":
 		scr_text("El sol es una estrella?", "Player")
 		scr_text("Segun Google si lo es", "Grupo",-1)
@@ -99,7 +100,7 @@ function scr_game_text(_text_id){
 		case "equivocacion_*11":
 		scr_text("Kabron es neta no? Cuantas equivocaciones van? 11 como llevas 11, es darle al espacio...", "Player")
 		break;
-		
+		#endregion
 		
 		#endregion
 		

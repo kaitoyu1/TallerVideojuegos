@@ -23,7 +23,7 @@
   ],
   "name":"spr_grupo_fin",
   "nineSlice":null,
-  "origin":0,
+  "origin":1,
   "parent":{
     "name":"nv_adolecente",
     "path":"folders/Sprites/nv_adolecente.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
+    "xorigin":150,
     "yorigin":0,
   },
   "swatchColours":null,

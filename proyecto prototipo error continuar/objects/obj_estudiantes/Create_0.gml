@@ -2,4 +2,5 @@
 // Puede escribir su código en este editor
 colision = false;
 text_id = "";
+ir_nivel = false
 

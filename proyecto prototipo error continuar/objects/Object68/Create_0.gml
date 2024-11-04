@@ -1,4 +1,8 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-colision = false
-ir_nivel = false
+
+//pivot = instance_find(obj_pivot, 0);
+
+can_win = false;
+
+pressed = false;
