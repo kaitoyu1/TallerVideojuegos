@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_grupo_fin",
   "bboxMode":0,
-  "bbox_bottom":468,
-  "bbox_left":1,
-  "bbox_right":498,
+  "bbox_bottom":277,
+  "bbox_left":16,
+  "bbox_right":289,
   "bbox_top":6,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":500,
+  "height":300,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"74beea3c-bf49-4937-806b-5585bc38b700","blendMode":0,"displayName":"default","isLocked":false,"name":"74beea3c-bf49-4937-806b-5585bc38b700","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":500,
+  "width":300,
 }

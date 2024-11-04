@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_cafe",
   "bboxMode":0,
-  "bbox_bottom":498,
-  "bbox_left":1,
-  "bbox_right":497,
+  "bbox_bottom":96,
+  "bbox_left":6,
+  "bbox_right":97,
   "bbox_top":3,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -18,7 +18,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":500,
+  "height":100,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"7bb0a617-d071-4e43-a034-7e4b782048a3","blendMode":0,"displayName":"default","isLocked":false,"name":"7bb0a617-d071-4e43-a034-7e4b782048a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -94,5 +94,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":500,
+  "width":100,
 }

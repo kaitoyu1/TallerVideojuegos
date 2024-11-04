@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite49",
-    "path":"sprites/Sprite49/Sprite49.yy",
+    "name":"spr_grupo",
+    "path":"sprites/spr_grupo/spr_grupo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
