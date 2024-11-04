@@ -9,7 +9,7 @@
   "managed":true,
   "name":"obj_libro_preguntas",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Precionar E\\nPara interactuar",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Presionar E\\nPara interactuar",},
   ],
   "parent":{
     "name":"interactuables",
@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"mesalibro",
-    "path":"sprites/mesalibro/mesalibro.yy",
+    "name":"spr_libro",
+    "path":"sprites/spr_libro/spr_libro.yy",
   },
   "spriteMaskId":null,
   "visible":true,

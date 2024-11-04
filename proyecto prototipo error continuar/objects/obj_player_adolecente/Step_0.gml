@@ -10,14 +10,14 @@
 		if place_free( x + 5, y) {
 		x += velo
 		}
-		image_xscale = -1
+		image_xscale = 1
 		sprite_index = spr_caminar_adolecente
 	}else
 	if izquierda{
 		if place_free( x - 5, y) {
 		x -= velo
 		}
-		image_xscale = 1
+		image_xscale = -1
 		sprite_index = spr_caminar_adolecente
 	}else
 	if arriba{ 
