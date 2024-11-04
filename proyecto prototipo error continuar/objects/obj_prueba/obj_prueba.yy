@@ -1,17 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cutscene_controller",
+  "%Name":"obj_prueba",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cutscene_controller",
+  "name":"obj_prueba",
   "overriddenProperties":[],
   "parent":{
-    "name":"transiciones",
-    "path":"folders/transiciones.yy",
+    "name":"transaccion",
+    "path":"folders/Objetos/nv_infancia/transaccion.yy",
   },
   "parentObjectId":null,
   "persistent":false,

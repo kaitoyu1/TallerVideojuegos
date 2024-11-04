@@ -36,15 +36,18 @@ dialog_timer = 0;
 animation_finished = false;*/
 transitions = {
 
-	    BEBE_POV: create_transition_data(
-        spr_bebe_pov,
-        15/60,
-        nv_nino, 
+	BEBE_POV: create_transition_data(spr_bebe_pov, 15/60, nv_tutorial, 
         {
-            texts: ["Estos son tus primeros momentos con vida…", "dialogo 2"],
+            texts: ["Estos son tus primeros momentos con vida…", "Pareces feliz…","Espero dure para siempre"],
             duration: 240
         }
-		)
+	),
+	BEBE_FIN: create_transition_data(spr_bebe_final, 15/60 , nv_nino,
+		{
+			texts: ["Los dias pasaron hasta este momento, te veías tan emocionado...", "Estabas listo por descubrir un nuevo mundo"],
+			duration: 240
+		}
+	),
 };
 
 playing = false;
