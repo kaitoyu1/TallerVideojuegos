@@ -14,7 +14,7 @@
     {"name":"draws","order":1,"path":"folders/Objetos/nv_nino/nv_plataforms/draws.yy",},
     {"name":"sonidos","order":1,"path":"folders/Objetos/nv_nino/sonidos.yy",},
     {"name":"personaje","order":6,"path":"folders/Objetos/personaje.yy",},
-    {"name":"cuaderno","order":3,"path":"folders/Salas/Etapas Vida/cuaderno.yy",},
+    {"name":"cuaderno","order":2,"path":"folders/Salas/Etapas Vida/nv_adolecente/cuaderno.yy",},
     {"name":"nv_adolecente","order":8,"path":"folders/Salas/Etapas Vida/nv_adolecente.yy",},
     {"name":"nv_adulto","order":9,"path":"folders/Salas/Etapas Vida/nv_adulto.yy",},
     {"name":"nv_infancia","order":7,"path":"folders/Salas/Etapas Vida/nv_infancia.yy",},

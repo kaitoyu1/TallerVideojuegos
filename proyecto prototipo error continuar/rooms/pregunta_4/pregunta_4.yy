@@ -24,7 +24,7 @@
   "name":"pregunta_4",
   "parent":{
     "name":"cuaderno",
-    "path":"folders/Salas/Etapas Vida/cuaderno.yy",
+    "path":"folders/Salas/Etapas Vida/nv_adolecente/cuaderno.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

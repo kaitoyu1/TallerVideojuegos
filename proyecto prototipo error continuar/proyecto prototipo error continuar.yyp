@@ -42,7 +42,7 @@
     {"$GMFolder":"","%Name":"Rutas","folderPath":"folders/Rutas.yy","name":"Rutas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Salas","folderPath":"folders/Salas.yy","name":"Salas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Etapas Vida","folderPath":"folders/Salas/Etapas Vida.yy","name":"Etapas Vida","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"cuaderno","folderPath":"folders/Salas/Etapas Vida/cuaderno.yy","name":"cuaderno","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"cuaderno","folderPath":"folders/Salas/Etapas Vida/nv_adolecente/cuaderno.yy","name":"cuaderno","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"nv_adolecente","folderPath":"folders/Salas/Etapas Vida/nv_adolecente.yy","name":"nv_adolecente","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"nv_adulto","folderPath":"folders/Salas/Etapas Vida/nv_adulto.yy","name":"nv_adulto","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"nv_infancia","folderPath":"folders/Salas/Etapas Vida/nv_infancia.yy","name":"nv_infancia","resourceType":"GMFolder","resourceVersion":"2.0",},
