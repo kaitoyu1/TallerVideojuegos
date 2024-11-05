@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"personaje",
-    "path":"folders/Sprites/personaje.yy",
+    "name":"prueba soko",
+    "path":"folders/Sprites/personaje/prueba soko.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
