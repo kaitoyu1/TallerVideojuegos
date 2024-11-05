@@ -7,3 +7,8 @@ acertados = 0
 can_win = false;
 
 pressed = false;
+
+velocidad = 2
+
+colision = false
+text_id= ""

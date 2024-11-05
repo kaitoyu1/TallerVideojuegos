@@ -1,16 +1,19 @@
-/*accept_key = keyboard_check_pressed(vk_enter);
+/// @description Inserte aquí la descripción
+// Puede escribir su código en este editor
+accept_key = keyboard_check_pressed(vk_enter);
 
-textbox_x = camera_get_view_x(view_camera[0])
-textbox_y = camera_get_view_y(view_camera[0])+600;
+// Cambiar las coordenadas para GUI
+textbox_x = 0; // O la posición X que desees en la GUI
+textbox_y = display_get_gui_height() - 200 // Por ejemplo, 200 píxeles desde abajo
 
 if (setup == false)
 {
-	setup = true;
-	draw_set_font(global.font_main);
-	draw_set_valign(fa_top);
-	draw_set_halign(fa_left);
-	
-	//loop through the pages
+    setup = true;
+    draw_set_font(global.font_main);
+    draw_set_valign(fa_top);
+    draw_set_halign(fa_left);
+    
+    	//loop through the pages
 	page_number = array_length(text);
 	for (var p = 0; p < page_number; p++)
 	{
@@ -142,7 +145,9 @@ if (accept_key)
 	}
 }
 
-//draw the textbox
+
+// Dibujar en evento Draw GUI
+draw_set_font(global.font_main);
 var _txtb_x = textbox_x + text_x_offset[page];
 var _txtb_y = textbox_y;
 
@@ -150,30 +155,28 @@ txtb_img += txtb_img_spd;
 txtb_spr_w = sprite_get_width(txtb_spr[page]);
 txtb_spr_h = sprite_get_height(txtb_spr[page]);
 
-//draw the speaker
+// Dibujar el speaker
 if (speaker_sprite[page] != noone)
 {
-	sprite_index = speaker_sprite[page];
-	if (draw_char == text_length[page]){image_index = 0};
-	var _speaker_x = textbox_x + portrait_x_offset[page];
-	if (speaker_side[page] == -1)
-	{
-		_speaker_x += sprite_width;	
-	}
-	
-	//draw the speaker
-	draw_sprite_ext(txtb_spr[page], txtb_img, textbox_x + portrait_x_offset[page], textbox_y, sprite_width/txtb_spr_w, sprite_height/txtb_spr_h, 0, c_white, 1);
-	draw_sprite_ext(sprite_index, image_index, _speaker_x, textbox_y, speaker_side[page], 1, 0, c_white, 1);
-	draw_sprite_ext(txtb_spr[page], txtb_img, textbox_x + text_x_offset[page], textbox_y, textbox_width/txtb_spr_w, textbox_height/txtb_spr_h, 0, c_white, 1);
-
+    sprite_index = speaker_sprite[page];
+    if (draw_char == text_length[page]){image_index = 0};
+    var _speaker_x = textbox_x + portrait_x_offset[page];
+    if (speaker_side[page] == -1)
+    {
+        _speaker_x += sprite_width;    
+    }
+    
+    // Usar draw_sprite_ext en GUI
+    draw_sprite_ext(txtb_spr[page], txtb_img, textbox_x + portrait_x_offset[page], textbox_y, 
+        sprite_width/txtb_spr_w, sprite_height/txtb_spr_h, 0, c_white, 1);
+    draw_sprite_ext(sprite_index, image_index, _speaker_x, textbox_y, 
+        speaker_side[page], 1, 0, c_white, 1);
+    draw_sprite_ext(txtb_spr[page], txtb_img, textbox_x + text_x_offset[page], textbox_y, 
+        textbox_width/txtb_spr_w, textbox_height/txtb_spr_h, 0, c_white, 1);
 }
 
-//back of the textbox
-
-//draw the text 
- for (var c = 0; c < draw_char; c++)
- {
-	//the text
-	draw_text(char_x[c, page], char_y[c,page], char[c,page]);
- }
-
+// Dibujar el texto
+for (var c = 0; c < draw_char; c++)
+{
+    draw_text(char_x[c, page], char_y[c,page], char[c,page]);
+}

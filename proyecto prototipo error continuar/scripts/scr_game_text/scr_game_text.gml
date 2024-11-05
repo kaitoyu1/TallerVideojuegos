@@ -60,8 +60,9 @@ function scr_game_text(_text_id){
 		#region preguntas grupo
 		case "pregunta_1":
 		scr_text("El sol es una estrella?", "Player")
-		scr_text("Segun Google si lo es", "Grupo",-1)
-		break;
+		break
+		/*scr_text("Segun Google si lo es", "Player")
+		break;*/
 		
 		case "pregunta_2":
 		scr_text("Cuanto es 2 al cuadrado?","Player")
@@ -91,7 +92,7 @@ function scr_game_text(_text_id){
 		case "equivocacion_1":
 		scr_text("Voy a decir algo tonto y se van a reir de mi...","Player")
 		break;
-		case "eqivocacion_2":
+		case "equivocacion_2":
 		scr_text("No soy nada bueno en esto","Player")
 		break;
 		case "equivocacion_3":

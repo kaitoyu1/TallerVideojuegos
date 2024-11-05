@@ -277,11 +277,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"nv_adolecente","path":"rooms/nv_adolecente/nv_adolecente.yy",},},
     {"roomId":{"name":"nv_mini_circulo","path":"rooms/nv_mini_circulo/nv_mini_circulo.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"roomId":{"name":"transicion_a_adolecente","path":"rooms/transicion_a_adolecente/transicion_a_adolecente.yy",},},
     {"roomId":{"name":"nv_nino","path":"rooms/nv_nino/nv_nino.yy",},},
-    {"roomId":{"name":"nv_adolecente","path":"rooms/nv_adolecente/nv_adolecente.yy",},},
     {"roomId":{"name":"pregunta_1","path":"rooms/pregunta_1/pregunta_1.yy",},},
     {"roomId":{"name":"nv_tutorial","path":"rooms/nv_tutorial/nv_tutorial.yy",},},
     {"roomId":{"name":"nv_mini_plataforma","path":"rooms/nv_mini_plataforma/nv_mini_plataforma.yy",},},
