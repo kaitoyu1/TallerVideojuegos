@@ -16,6 +16,7 @@ else
 	if(can_win)
 	{
 		show_debug_message("Ganaste");
+		acertados +=1 
 	}
 	else
 	{

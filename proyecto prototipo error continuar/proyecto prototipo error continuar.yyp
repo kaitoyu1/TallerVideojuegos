@@ -87,7 +87,6 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"acti_dormir","path":"objects/acti_dormir/acti_dormir.yy",},},
     {"id":{"name":"bebedormir","path":"objects/bebedormir/bebedormir.yy",},},
-    {"id":{"name":"centro","path":"objects/centro/centro.yy",},},
     {"id":{"name":"contador_respuestas_buenas","path":"objects/contador_respuestas_buenas/contador_respuestas_buenas.yy",},},
     {"id":{"name":"contador","path":"objects/contador/contador.yy",},},
     {"id":{"name":"infancia_a_nino","path":"objects/infancia_a_nino/infancia_a_nino.yy",},},

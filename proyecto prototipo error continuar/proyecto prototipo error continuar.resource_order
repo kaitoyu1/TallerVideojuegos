@@ -41,7 +41,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"bebedormir","order":1,"path":"objects/bebedormir/bebedormir.yy",},
-    {"name":"centro","order":18,"path":"objects/centro/centro.yy",},
     {"name":"contador_respuestas_buenas","order":3,"path":"objects/contador_respuestas_buenas/contador_respuestas_buenas.yy",},
     {"name":"contador","order":3,"path":"objects/contador/contador.yy",},
     {"name":"infancia_a_nino","order":3,"path":"objects/infancia_a_nino/infancia_a_nino.yy",},
