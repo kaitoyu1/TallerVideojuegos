@@ -120,6 +120,7 @@
     {"name":"spr_indle_bebe","order":1,"path":"sprites/spr_indle_bebe/spr_indle_bebe.yy",},
     {"name":"spr_intro_nv3","order":11,"path":"sprites/spr_intro_nv3/spr_intro_nv3.yy",},
     {"name":"spr_libro","order":8,"path":"sprites/spr_libro/spr_libro.yy",},
+    {"name":"spr_mesas","order":16,"path":"sprites/spr_mesas/spr_mesas.yy",},
     {"name":"spr_mini","order":7,"path":"sprites/spr_mini/spr_mini.yy",},
     {"name":"spr_rama","order":2,"path":"sprites/spr_rama/spr_rama.yy",},
     {"name":"spr_resfalin","order":4,"path":"sprites/spr_resfalin/spr_resfalin.yy",},

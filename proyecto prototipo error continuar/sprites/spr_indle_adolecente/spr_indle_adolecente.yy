@@ -23,7 +23,7 @@
   ],
   "name":"spr_indle_adolecente",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
     "name":"adolecente",
     "path":"folders/Sprites/personaje/adolecente.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":125,
+    "xorigin":112,
     "yorigin":125,
   },
   "swatchColours":null,
