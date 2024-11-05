@@ -3,6 +3,7 @@
   "%Name":"obj_celular",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player_adolecente","path":"objects/obj_player_adolecente/obj_player_adolecente.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_celular",

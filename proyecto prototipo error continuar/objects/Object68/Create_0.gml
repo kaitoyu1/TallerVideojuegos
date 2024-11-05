@@ -12,3 +12,6 @@ velocidad = 2
 
 colision = false
 text_id= ""
+
+segundos = 5;
+alarm[0] = 60;

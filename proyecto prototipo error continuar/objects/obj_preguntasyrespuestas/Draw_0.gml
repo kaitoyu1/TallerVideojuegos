@@ -46,7 +46,7 @@ if room == pregunta_5 {
 }
 if room == pregunta_6 {
 	
-	draw_text(120, 190, "Pregunta numero 6:\nAcertijo!\n -Los pobres lo tienen, los ricos no y si lo comes, mueres.")
+	draw_text(120, 190, "Pregunta numero 6:\nAcertijo!\n -Los pobres lo tienen,\nlos ricos no y si lo comes, mueres.")
 	
 	draw_text(860, 32, "Respuesta numero 1:\n - Nada")//buena
 	draw_text(860,272, "Respuesta numero 2:\n - Tierra")
