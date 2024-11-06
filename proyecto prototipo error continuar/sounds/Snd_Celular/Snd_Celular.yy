@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Pasos_Madera",
+  "%Name":"Snd_Celular",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":5.564083,
-  "name":"Snd_Pasos_Madera",
+  "duration":1.071,
+  "name":"Snd_Celular",
   "parent":{
     "name":"Sonidos Nv 2",
     "path":"folders/Sonidos/Sonidos Nv 2.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Pasos_Madera.mp3",
+  "soundFile":"Snd_Celular.mp3",
   "type":0,
   "volume":1.0,
 }

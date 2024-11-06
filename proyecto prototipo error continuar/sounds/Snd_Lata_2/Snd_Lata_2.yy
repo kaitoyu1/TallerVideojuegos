@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Paguina_2",
+  "%Name":"Snd_Lata_2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.410583,
-  "name":"Snd_Paguina_2",
+  "duration":0.91425,
+  "name":"Snd_Lata_2",
   "parent":{
     "name":"Sonidos Nv 2",
     "path":"folders/Sonidos/Sonidos Nv 2.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Paguina_2.mp3",
+  "soundFile":"Snd_Lata_2.mp3",
   "type":0,
   "volume":1.0,
 }

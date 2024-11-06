@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1be143f9-e510-41aa-869f-55b5267dd307","name":"1be143f9-e510-41aa-869f-55b5267dd307","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"fa6792ce-2f8b-482f-9a62-9aee5d7b711a","name":"fa6792ce-2f8b-482f-9a62-9aee5d7b711a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b0512114-c2f5-4ab7-afaa-24f2ba1afb5e","name":"b0512114-c2f5-4ab7-afaa-24f2ba1afb5e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"ad5518b3-fc09-4441-a6d2-32cbe04206a0","name":"ad5518b3-fc09-4441-a6d2-32cbe04206a0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b0512114-c2f5-4ab7-afaa-24f2ba1afb5e","name":"b0512114-c2f5-4ab7-afaa-24f2ba1afb5e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"fa6792ce-2f8b-482f-9a62-9aee5d7b711a","name":"fa6792ce-2f8b-482f-9a62-9aee5d7b711a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1be143f9-e510-41aa-869f-55b5267dd307","name":"1be143f9-e510-41aa-869f-55b5267dd307","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -72,17 +72,17 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1be143f9-e510-41aa-869f-55b5267dd307","path":"sprites/spr_caminar_adolecente/spr_caminar_adolecente.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e5e4af5a-6e8c-432e-b4df-15796735151a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fa6792ce-2f8b-482f-9a62-9aee5d7b711a","path":"sprites/spr_caminar_adolecente/spr_caminar_adolecente.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a190b643-0054-4927-8acd-35b2ff348c70","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ad5518b3-fc09-4441-a6d2-32cbe04206a0","path":"sprites/spr_caminar_adolecente/spr_caminar_adolecente.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"dc722599-3f40-4863-8d0a-9d4bf8977063","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b0512114-c2f5-4ab7-afaa-24f2ba1afb5e","path":"sprites/spr_caminar_adolecente/spr_caminar_adolecente.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"62eb68df-e452-4636-9349-6c57c5855757","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"62eb68df-e452-4636-9349-6c57c5855757","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ad5518b3-fc09-4441-a6d2-32cbe04206a0","path":"sprites/spr_caminar_adolecente/spr_caminar_adolecente.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dc722599-3f40-4863-8d0a-9d4bf8977063","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fa6792ce-2f8b-482f-9a62-9aee5d7b711a","path":"sprites/spr_caminar_adolecente/spr_caminar_adolecente.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a190b643-0054-4927-8acd-35b2ff348c70","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1be143f9-e510-41aa-869f-55b5267dd307","path":"sprites/spr_caminar_adolecente/spr_caminar_adolecente.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e5e4af5a-6e8c-432e-b4df-15796735151a","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

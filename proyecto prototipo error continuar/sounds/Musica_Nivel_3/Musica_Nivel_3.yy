@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Paguina_2",
+  "%Name":"Musica_Nivel_3",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.410583,
-  "name":"Snd_Paguina_2",
+  "duration":86.02121,
+  "name":"Musica_Nivel_3",
   "parent":{
-    "name":"Sonidos Nv 2",
-    "path":"folders/Sonidos/Sonidos Nv 2.yy",
+    "name":"Sonidos Nv 3",
+    "path":"folders/Sonidos/Sonidos Nv 3.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Paguina_2.mp3",
+  "soundFile":"Musica_Nivel_3.mp3",
   "type":0,
   "volume":1.0,
 }

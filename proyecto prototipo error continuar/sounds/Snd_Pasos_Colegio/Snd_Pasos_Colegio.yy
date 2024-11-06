@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Paguina_2",
+  "%Name":"Snd_Pasos_Colegio",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.410583,
-  "name":"Snd_Paguina_2",
+  "duration":2.795083,
+  "name":"Snd_Pasos_Colegio",
   "parent":{
     "name":"Sonidos Nv 2",
     "path":"folders/Sonidos/Sonidos Nv 2.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Paguina_2.mp3",
+  "soundFile":"Snd_Pasos_Colegio.mp3",
   "type":0,
   "volume":1.0,
 }

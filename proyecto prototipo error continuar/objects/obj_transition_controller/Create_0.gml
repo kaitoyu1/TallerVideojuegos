@@ -36,38 +36,38 @@ dialog_timer = 0;
 animation_finished = false;*/
 transitions = {
 
-	BEBE_POV: create_transition_data(spr_bebe_pov, 15/60, nv_tutorial, 
+	BEBE_POV: create_transition_data(spr_bebe_pov, 10/80, nv_tutorial, 
         {
             texts: ["Estos son tus primeros momentos con vida…", "Pareces feliz…","Espero dure para siempre"],
-            duration: 240
+            duration: 480
         }
 	),
-	BEBE_FIN: create_transition_data(spr_bebe_final, 15/60 , nv_nino,
+	BEBE_FIN: create_transition_data(spr_bebe_final, 10/80 , nv_nino,
 		{
 			texts: ["Los dias pasaron hasta este momento, te veías tan emocionado...", "Estabas listo por descubrir un nuevo mundo"],
-			duration: 240
+			duration: 480
 		}
 	),
 	
-	ESCALERAS: create_transition_data(spr_escaleras,15/60,nv_mini_plataforma), //sin dialogos
+	ESCALERAS: create_transition_data(spr_escaleras,20/100,nv_mini_plataforma), //sin dialogos
 	
-	BUS: create_transition_data(spr_fn_nv_2_malo,15/60,transicion_a_adolecente,
+	BUS: create_transition_data(spr_fn_nv_2_malo,10/80,transicion_a_adolecente,
 		{
 			texts: ["... :( “"],
-			duration: 240
+			duration: 480
 		}
 	),
-	RESFALIN: create_transition_data(spr_fn_nv_2_feliz,15/60,transicion_a_adolecente,
+	RESFALIN: create_transition_data(spr_fn_nv_2_feliz,10/80,transicion_a_adolecente,
 		{
 			texts: ["Que bien la he pasado!"],
-			duration: 240
+			duration: 480
 		}
 	),
-	ADOLECENTE_INTRO: create_transition_data(spr_intro_nv3,15/60,nv_adolecente,
+	ADOLECENTE_INTRO: create_transition_data(spr_intro_nv3,10/80,nv_adolecente,
 		{
 			texts: ["Tras el paso del tiempo tus dias de curiosidad y descubrimiento se convirtieron en recuerdos", 
 			"a donde habra ido toda esa energia y optimismo?", "Tal vez la culpa fue de tu ligero problema de ansiedad", "Por que todo perdido su brillo?"],
-			duration: 240
+			duration: 480
 		}
 	)
 	
