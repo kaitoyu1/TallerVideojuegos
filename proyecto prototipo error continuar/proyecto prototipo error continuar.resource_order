@@ -31,6 +31,8 @@
     {"name":"Dialogos","order":4,"path":"folders/Sprites/Dialogos.yy",},
     {"name":"fondo","order":5,"path":"folders/Sprites/fondo.yy",},
     {"name":"nv_adilto","order":14,"path":"folders/Sprites/nv_adilto.yy",},
+    {"name":"cinematicas","order":2,"path":"folders/Sprites/nv_adilto/cinematicas.yy",},
+    {"name":"mini juego","order":3,"path":"folders/Sprites/nv_adilto/mini juego.yy",},
     {"name":"interactuables","order":1,"path":"folders/Sprites/nv_adilto/interactuables.yy",},
     {"name":"nv_adolecente","order":12,"path":"folders/Sprites/nv_adolecente.yy",},
     {"name":"nv_bebe","order":13,"path":"folders/Sprites/nv_bebe.yy",},
