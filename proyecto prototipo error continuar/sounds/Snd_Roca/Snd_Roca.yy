@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_Roca",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.91425,
+  "name":"Snd_Roca",
+  "parent":{
+    "name":"Sonidos Nv 1",
+    "path":"folders/Sonidos/Sonidos Nv 1.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_Roca.mp3",
+  "type":0,
+  "volume":1.0,
+}

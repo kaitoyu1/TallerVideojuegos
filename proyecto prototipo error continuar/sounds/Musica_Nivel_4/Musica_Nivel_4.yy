@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Tobogan",
+  "%Name":"Musica_Nivel_4",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.253875,
-  "name":"Snd_Tobogan",
+  "duration":144.37875,
+  "name":"Musica_Nivel_4",
   "parent":{
-    "name":"Sonidos Nv 1",
-    "path":"folders/Sonidos/Sonidos Nv 1.yy",
+    "name":"Sonidos Nv 4",
+    "path":"folders/Sonidos/Sonidos Nv 4.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Tobogan.mp3",
+  "soundFile":"Musica_Nivel_4.mp3",
   "type":0,
-  "volume":1.0,
+  "volume":0.51,
 }

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Foto_4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":7.209792,
+  "name":"Foto_4",
+  "parent":{
+    "name":"Sonidos Nv 4",
+    "path":"folders/Sonidos/Sonidos Nv 4.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Foto_4.mp3",
+  "type":0,
+  "volume":1.0,
+}

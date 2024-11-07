@@ -12,6 +12,7 @@
 		}
 		image_xscale = -1
 		sprite_index = spr_caminar_nino
+		audio_play_sound(Snd_Pasos_Tierra, 0, false);
 	}else
 	if izquierda{
 		if place_free( x - 5, y) {
@@ -19,18 +20,21 @@
 		}
 		image_xscale = 1
 		sprite_index = spr_caminar_nino
+		audio_play_sound(Snd_Pasos_Tierra, 0, false);
 	}else
 	if arriba{ 
 		if place_free( x , y - 5) {
 		y -= velo
 		}
 		sprite_index = spr_caminar_nino
+		audio_play_sound(Snd_Pasos_Tierra, 0, false);
 	}else
 	if abajo {
 		if place_free( x , y + 5) {
 		y += velo
 		}
 		sprite_index = spr_caminar_nino
+		audio_play_sound(Snd_Pasos_Tierra, 0, false);
 	}else{
 		sprite_index = spr_indle_nino
 	}

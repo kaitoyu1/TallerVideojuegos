@@ -1,3 +1,4 @@
+
 global.pausa = !global.pausa;
     if (global.pausa && room != menu) {
         instance_deactivate_all(true);
