@@ -133,48 +133,36 @@ function scr_game_text(_text_id){
 		
 		case "dialogo 2 opcion 3":
 		scr_text("Te gusta venir aqui?","Player")//buena
-		scr_text("Si, es un lugar tranquilo y sirve para relajarme.")
+		scr_text("Si, es un lugar tranquilo y sirve para relajarme.","Trabajadora")
 		break
 		
+		case "dialogo 3 opcion 1":
+		scr_text("Te gustan los paseos luego del trabajo","Player")//buena
+		scr_text("Si! Me ayudan a despejar la mente.","Trabajadora")
+		break 
 		
+		case "dialogo 3 opcion 2":
+		scr_text("No tines nada mejor que hacer luego?","Player")//neutal
+		scr_text("Bueno... pensaba en caminar por ahi","Trabajadora")
+		break
+		
+		case "dialogo 3 opcion 2":
+		scr_text("Deberias hacer horas extra, ayudan a rendimiento de  la empresa.","Player")//mala
+		scr_text("Estas loco?","Trabajadora")
+		break
+		
+		case "dialogo pregunta final":
+		scr_text("Te guastaria que fueramos a dar un paseo luego?","Player")
+		break
+		
+		case "dialogo bueno":
+		scr_text("Claro! Me encantaria","Trabajadora")
+		break
+		
+		case "dialogo malo":
+		scr_text("Ew No. Prefiero estar sola.","Trabajadora")
+		break
 				
-/*		
-
-Segunda ronda de opciones:
-“aquí vienes a perder el tiempo?”   Mala
-Respuesta: “No puedo disfrutar de un rato para mi misma?”
-
-“No te aburre siempre la misma vista?  neutra
-Respuesta: “A veces, pero me relaja ver hacia el exterior 
-
-“Te gusta venir aquí? 
-respuesta: “Si, es un lugar tranquilo y sirve para relajarme.” buena
-
-
-Tercera ronda de opciones: 
-“Te gustan los paseos luego del trabajo?  Buena
-Respuesta: “Si!  me ayudan a despejar la mente”
-
-“No tienes nada mejor que hacer luego?  
-Respuesta: “ Bueno… pensaba en caminar por ahí” neutra
-
-“Deberías hacer horas extra, ayudan al rendimiento de la empresa mala
-Respuesta: “Estás loco?”    
-
-Cuarta ronda (final) 
-
-Si el jugador respondió las 3 buenas: le responderá positivamente. (3 puntos) 
-		
-Si el jugador escogió 2 buenas y una neutra: le responderá positivamente. (2 puntos)
-
-Pero si el jugador responde menos de dos buenas o alguna negativa: recibirá la respuesta negativa  (menos de 2 puntos) 
-	
-“Te gustaría que fuéramos a dar un paseo luego? 
-Respuesta Positiva: “Claro! Me encantaría tu compañía :)
-
-Respuesta negativa: “ Ew No. Prefiero estar sola”
-*/
-		
 		#endregion
 		
 	}
