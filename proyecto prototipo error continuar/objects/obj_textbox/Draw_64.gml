@@ -8,6 +8,7 @@ textbox_y = display_get_gui_height() - 200 // Por ejemplo, 200 píxeles desde ab
 
 if (setup == false)
 {
+	
     setup = true;
     draw_set_font(global.font_main);
     draw_set_valign(fa_top);
@@ -135,7 +136,7 @@ if (accept_key)
 		//destroy textbox
 		else 
 		{
-			instance_destroy();
+			instance_activate_all()
 		}
 	}
 	// if not done typing 
@@ -180,3 +181,6 @@ for (var c = 0; c < draw_char; c++)
 {
     draw_text(char_x[c, page], char_y[c,page], char[c,page]);
 }
+
+
+//var objects_to_exclude = [obj_textbox, obj_settings];

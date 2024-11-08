@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_textbox",
+  "%Name":"obj_box_diolg",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_textbox",
+  "name":"obj_box_diolg",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialog System",
-    "path":"folders/Dialog System.yy",
+    "name":"preguntas",
+    "path":"folders/Objetos/nv_adulto/preguntas.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -31,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_dilaogo_seminegro",
+    "path":"sprites/spr_dilaogo_seminegro/spr_dilaogo_seminegro.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

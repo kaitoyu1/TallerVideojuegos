@@ -146,7 +146,7 @@ function scr_game_text(_text_id){
 		scr_text("Bueno... pensaba en caminar por ahi","Trabajadora")
 		break
 		
-		case "dialogo 3 opcion 2":
+		case "dialogo 3 opcion 3":
 		scr_text("Deberias hacer horas extra, ayudan a rendimiento de  la empresa.","Player")//mala
 		scr_text("Estas loco?","Trabajadora")
 		break
