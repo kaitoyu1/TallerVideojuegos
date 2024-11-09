@@ -84,7 +84,7 @@
     {"name":"Obj_Perro","order":3,"path":"objects/Obj_Perro/Obj_Perro.yy",},
     {"name":"obj_playe_plataforma","order":1,"path":"objects/obj_playe_plataforma/obj_playe_plataforma.yy",},
     {"name":"obj_player_adolecente","order":6,"path":"objects/obj_player_adolecente/obj_player_adolecente.yy",},
-    {"name":"Obj_player_adulto","order":7,"path":"objects/Obj_player_adulto/Obj_player_adulto.yy",},
+    {"name":"obj_player_adulto","order":7,"path":"objects/obj_player_adulto/obj_player_adulto.yy",},
     {"name":"obj_player_bebe","order":2,"path":"objects/obj_player_bebe/obj_player_bebe.yy",},
     {"name":"obj_player_nino_plataforma","order":5,"path":"objects/obj_player_nino_plataforma/obj_player_nino_plataforma.yy",},
     {"name":"obj_player_nino","order":4,"path":"objects/obj_player_nino/obj_player_nino.yy",},

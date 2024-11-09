@@ -23,3 +23,7 @@ if room == opcion_3 {
 	//mala
 	draw_text(950,600,"Deberías hacer horas extra, \nayudan al rendimiento de la empresa")
 }
+if room == opcion_4{
+	
+	draw_text(400,600,"Invitar a dar un paseo")
+}

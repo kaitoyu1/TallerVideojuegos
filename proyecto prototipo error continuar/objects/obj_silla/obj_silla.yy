@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_silla",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player_adulto","path":"objects/obj_player_adulto/obj_player_adulto.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_silla",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"interactuables",
     "path":"folders/Objetos/nv_adulto/interactuables.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_cartel_parent",
+    "path":"objects/obj_cartel_parent/obj_cartel_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

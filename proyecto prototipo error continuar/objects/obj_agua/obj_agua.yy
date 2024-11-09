@@ -1,15 +1,23 @@
 {
   "$GMObject":"",
   "%Name":"obj_agua",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player_adolecente","path":"objects/obj_player_adolecente/obj_player_adolecente.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_agua",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cartel_parent","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"propertyId":{"name":"Interaccion","path":"objects/obj_cartel_parent/obj_cartel_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Presionar E para interctuar",},
+  ],
   "parent":{
     "name":"interactuables",
     "path":"folders/Objetos/nv_adulto/interactuables.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_cartel_parent",
+    "path":"objects/obj_cartel_parent/obj_cartel_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

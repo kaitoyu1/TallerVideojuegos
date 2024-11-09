@@ -1,5 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-
-global.cont_nv_adulto = 0
-global.fin_opciones		=0
+if colision {
+	if global.fin_opciones = 0{
+	room_goto(opcion_1)
+	}
+}

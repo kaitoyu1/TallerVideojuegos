@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_player_adulto",
+  "%Name":"obj_player_adulto",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_agua","path":"objects/obj_agua/obj_agua.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_silla","path":"objects/obj_silla/obj_silla.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -9,7 +9,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_player_adulto",
+  "name":"obj_player_adulto",
   "overriddenProperties":[],
   "parent":{
     "name":"personaje",
@@ -33,7 +33,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_indle_adulto",
+    "path":"sprites/spr_indle_adulto/spr_indle_adulto.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
