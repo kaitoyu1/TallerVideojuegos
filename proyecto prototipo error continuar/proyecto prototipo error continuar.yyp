@@ -90,7 +90,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
@@ -152,10 +152,12 @@
     {"id":{"name":"Obj_Perro","path":"objects/Obj_Perro/Obj_Perro.yy",},},
     {"id":{"name":"obj_playe_plataforma","path":"objects/obj_playe_plataforma/obj_playe_plataforma.yy",},},
     {"id":{"name":"obj_player_adolecente","path":"objects/obj_player_adolecente/obj_player_adolecente.yy",},},
+    {"id":{"name":"Obj_player_adulto","path":"objects/Obj_player_adulto/Obj_player_adulto.yy",},},
     {"id":{"name":"obj_player_bebe_plataforma","path":"objects/obj_player_bebe_plataforma/obj_player_bebe_plataforma.yy",},},
     {"id":{"name":"obj_player_bebe","path":"objects/obj_player_bebe/obj_player_bebe.yy",},},
     {"id":{"name":"obj_player_nino_plataforma","path":"objects/obj_player_nino_plataforma/obj_player_nino_plataforma.yy",},},
     {"id":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},},
+    {"id":{"name":"Obj_player_viejo","path":"objects/Obj_player_viejo/Obj_player_viejo.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_preguntasyrespuestas","path":"objects/obj_preguntasyrespuestas/obj_preguntasyrespuestas.yy",},},
     {"id":{"name":"obj_prueba_d","path":"objects/obj_prueba_d/obj_prueba_d.yy",},},

@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_silla",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_silla",
   "overriddenProperties":[],
