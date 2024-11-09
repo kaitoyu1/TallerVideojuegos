@@ -90,12 +90,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"acti_dormir","path":"objects/acti_dormir/acti_dormir.yy",},},
+    {"id":{"name":"adolecente_a_adulto","path":"objects/adolecente_a_adulto/adolecente_a_adulto.yy",},},
     {"id":{"name":"bebedormir","path":"objects/bebedormir/bebedormir.yy",},},
     {"id":{"name":"buena","path":"objects/buena/buena.yy",},},
     {"id":{"name":"contador_respuestas_buenas","path":"objects/contador_respuestas_buenas/contador_respuestas_buenas.yy",},},
@@ -201,6 +202,7 @@
     {"id":{"name":"pregunta_5","path":"rooms/pregunta_5/pregunta_5.yy",},},
     {"id":{"name":"pregunta_6","path":"rooms/pregunta_6/pregunta_6.yy",},},
     {"id":{"name":"trancision_a_nino","path":"rooms/trancision_a_nino/trancision_a_nino.yy",},},
+    {"id":{"name":"trancision_adulto","path":"rooms/trancision_adulto/trancision_adulto.yy",},},
     {"id":{"name":"transicion_a_adolecente","path":"rooms/transicion_a_adolecente/transicion_a_adolecente.yy",},},
     {"id":{"name":"scr_game_text","path":"scripts/scr_game_text/scr_game_text.yy",},},
     {"id":{"name":"scr_textbox_fuctions","path":"scripts/scr_textbox_fuctions/scr_textbox_fuctions.yy",},},
@@ -286,6 +288,7 @@
     {"id":{"name":"spr_caminar","path":"sprites/spr_caminar/spr_caminar.yy",},},
     {"id":{"name":"spr_celular_fin","path":"sprites/spr_celular_fin/spr_celular_fin.yy",},},
     {"id":{"name":"spr_celular","path":"sprites/spr_celular/spr_celular.yy",},},
+    {"id":{"name":"spr_cine_adulto","path":"sprites/spr_cine_adulto/spr_cine_adulto.yy",},},
     {"id":{"name":"spr_circulo","path":"sprites/spr_circulo/spr_circulo.yy",},},
     {"id":{"name":"spr_dilaogo_seminegro","path":"sprites/spr_dilaogo_seminegro/spr_dilaogo_seminegro.yy",},},
     {"id":{"name":"spr_escaleras","path":"sprites/spr_escaleras/spr_escaleras.yy",},},
@@ -337,8 +340,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"opcion_1","path":"rooms/opcion_1/opcion_1.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"opcion_1","path":"rooms/opcion_1/opcion_1.yy",},},
     {"roomId":{"name":"nv_tutorial","path":"rooms/nv_tutorial/nv_tutorial.yy",},},
     {"roomId":{"name":"nv_nino","path":"rooms/nv_nino/nv_nino.yy",},},
     {"roomId":{"name":"nv_adolecente","path":"rooms/nv_adolecente/nv_adolecente.yy",},},
@@ -360,6 +363,7 @@
     {"roomId":{"name":"opcion_2","path":"rooms/opcion_2/opcion_2.yy",},},
     {"roomId":{"name":"opcion_3","path":"rooms/opcion_3/opcion_3.yy",},},
     {"roomId":{"name":"opcion_4","path":"rooms/opcion_4/opcion_4.yy",},},
+    {"roomId":{"name":"trancision_adulto","path":"rooms/trancision_adulto/trancision_adulto.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

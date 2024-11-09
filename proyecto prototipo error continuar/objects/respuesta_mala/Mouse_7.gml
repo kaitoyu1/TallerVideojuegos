@@ -21,5 +21,5 @@ audio_play_sound(Snd_Paguina_2, 0, false)
 	room_goto(pregunta_6)
 }
 if room == pregunta_6{
-	room_goto(nv_adulto)
+	room_goto(trancision_adulto)
 }

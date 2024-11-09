@@ -26,5 +26,5 @@ if room == pregunta_5{
 }
 if room == pregunta_6 {
 	global.rep_buenas += 1
-	room_goto(nv_adulto)
+	room_goto(trancision_adulto)
 }

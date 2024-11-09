@@ -39,13 +39,15 @@ transitions = {
 
 	BEBE_POV: create_transition_data(spr_bebe_pov, 10/80, nv_tutorial, 
         {
-            texts: ["Estos son tus primeros momentos con vida…", "Pareces feliz…","Espero dure para siempre"],
+            texts: ["Estos son tus primeros momentos con vida…", "Pareces feliz… quizas porque todo es nuevo para ti. Este es solo el comienzo de una historia llena de posibilidades, y solo tu decidiras hacia donde te llevara.",
+			"Espero dure para siempre"],
             duration: 480
         }
 	),
 	BEBE_FIN: create_transition_data(spr_bebe_final, 10/80 , nv_nino,
 		{
-			texts: ["Los dias pasaron hasta este momento, te veías tan emocionado...", "Estabas listo por descubrir un nuevo mundo"],
+			texts: ["Los dias pasaron hasta este momento, te veias tan emocionado… un paso mas hacia el mundo, lleno de preguntas y sorpresas. Todo es nuevo para ti, pero pronto aprenderas que hay mucho mas por descubrir.", 
+			"Estabas listo por descubrir un nuevo mundo","No deberias arruinarlo"],
 			duration: 480
 		}
 	),
@@ -70,7 +72,15 @@ transitions = {
 			"a donde habra ido toda esa energia y optimismo?", "Tal vez la culpa fue de tu ligero problema de ansiedad", "Por que todo perdido su brillo?"],
 			duration: 480
 		}
-	)
+	),
+	ADULTO_INTRO: create_transition_data(spr_cine_adulto,10/80,nv_adulto,
+		{
+			text:["De las aulas llenas de dudas y suenos, a la monotonia de un cubiculo gris, la vida adulta llego sin promesas, solo con el peso de la rutina",
+			"Has conseguido un trabajo bien pagado. te has esforzado para llegar hasta aqui","Es esto lo que realmente deberias estar haciendo?"],
+			duration: 480
+		}
+		
+	),
 	
 };
 
