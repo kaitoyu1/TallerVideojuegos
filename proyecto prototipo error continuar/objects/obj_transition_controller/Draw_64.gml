@@ -41,6 +41,19 @@ if (playing && transition_active) {
             c_black, c_black, c_black, c_black,
             false
         );
+		/*textbox_width = 1000
+		textbox_height = 150
+		
+		textbox_x = 0; // O la posición X que desees en la GUI
+		textbox_y = display_get_gui_height() - 200 // Por ejemplo, 200 píxeles desde abajo
+		
+		txtb_img = 6/60;
+		txtb_spr_w = sprite_get_width(spr_Atextbox);
+		txtb_spr_h = sprite_get_height(spr_Atextbox);
+		
+		draw_sprite_ext(spr_Atextbox, txtb_img, textbox_x /*+ text_x_offset[page], textbox_y, 
+        textbox_width/txtb_spr_w, textbox_height/txtb_spr_h, 0, c_white, 1);*/
+		
         draw_set_alpha(1);
         
         // Texto del diálogo

@@ -13,15 +13,16 @@ current_transition = noone;*/
 /*
 transitions = {
     // Transición con diálogos
-    BEBE_POV: create_transition_data(
-        spr_bebe_pov,
-        0.1,
-        nv_nino, 
+    NOMBRE_CINEMATICA: create_transition_data(
+        spr_cinematica,//spr de la cinematica
+        10/80,//8 seg - tiene que ser algo que dividiendo de los segundos deseados
+        room_siguiente, 
         {
-            texts: ["Estos son tus primeros momentos con vida…", "dialogo 2", "dialogo 3"],
-            duration: 60
+            texts: ["dialogo 1", "dialogo 2", "dialogo 3"],
+            duration: 480 //segundos por cada texto  1 seg = 60
         }
-    ),
+    )
+};
     // Transición sin diálogos
     RES: create_transition_data(
         spr_escaleras,

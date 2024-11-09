@@ -9,7 +9,10 @@
     "name":"preguntas",
     "path":"folders/Objetos/nv_adulto/preguntas.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_padre_buena_mala_neuta",
+    "path":"objects/obj_padre_buena_mala_neuta/obj_padre_buena_mala_neuta.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

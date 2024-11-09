@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"buena",
-  "eventList":[],
+  "%Name":"obj_padre_buena_mala_neuta",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"buena",
+  "name":"obj_padre_buena_mala_neuta",
   "overriddenProperties":[],
   "parent":{
     "name":"preguntas",
     "path":"folders/Objetos/nv_adulto/preguntas.yy",
   },
-  "parentObjectId":{
-    "name":"obj_padre_buena_mala_neuta",
-    "path":"objects/obj_padre_buena_mala_neuta/obj_padre_buena_mala_neuta.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"si",
-    "path":"sprites/si/si.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

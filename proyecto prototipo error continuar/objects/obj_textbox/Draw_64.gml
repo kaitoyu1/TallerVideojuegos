@@ -136,7 +136,8 @@ if (accept_key)
 		//destroy textbox
 		else 
 		{
-			instance_activate_all()
+			instance_destroy()
+			//instance_activate_all()
 		}
 	}
 	// if not done typing 
