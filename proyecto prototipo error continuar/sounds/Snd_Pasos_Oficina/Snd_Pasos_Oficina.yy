@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":3.918333,
+  "duration":0.91425,
   "name":"Snd_Pasos_Oficina",
   "parent":{
     "name":"Sonidos Nv 3",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"Snd_Pasos_Oficina.mp3",
   "type":0,
-  "volume":0.23,
+  "volume":1.0,
 }

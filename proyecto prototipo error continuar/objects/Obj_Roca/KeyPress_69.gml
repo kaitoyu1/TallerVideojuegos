@@ -1,1 +1,0 @@
-audio_play_sound(Snd_Roca, 0, false)

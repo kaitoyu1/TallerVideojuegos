@@ -1,1 +1,0 @@
-audio_play_sound(Snd_Bicicleta, 0, false)

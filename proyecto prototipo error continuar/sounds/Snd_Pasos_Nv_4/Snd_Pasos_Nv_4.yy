@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Rueda",
+  "%Name":"Snd_Pasos_Nv_4",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.28,
-  "name":"Snd_Rueda",
+  "duration":1.201625,
+  "name":"Snd_Pasos_Nv_4",
   "parent":{
-    "name":"Sonidos Nv 1",
-    "path":"folders/Sonidos/Sonidos Nv 1.yy",
+    "name":"Sonidos Nv 4",
+    "path":"folders/Sonidos/Sonidos Nv 4.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Rueda.mp3",
+  "soundFile":"Snd_Pasos_Nv_4.mp3",
   "type":0,
-  "volume":0.54,
+  "volume":1.0,
 }

@@ -1,1 +1,0 @@
-audio_play_sound(Snd_Perro, 0, false)

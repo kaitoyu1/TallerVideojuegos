@@ -26,6 +26,7 @@
     {"name":"inst_19B364E","path":"rooms/nv_adolecente/nv_adolecente.yy",},
     {"name":"inst_1BC7FB5C","path":"rooms/nv_adolecente/nv_adolecente.yy",},
     {"name":"inst_649A89B8","path":"rooms/nv_adolecente/nv_adolecente.yy",},
+    {"name":"inst_59932B6E","path":"rooms/nv_adolecente/nv_adolecente.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -50,6 +51,7 @@
         {"$GMRInstance":"v1","%Name":"inst_72D965EF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_72D965EF","objectId":{"name":"obj_contador_preguntas","path":"objects/obj_contador_preguntas/obj_contador_preguntas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2546.0,"y":842.0,},
         {"$GMRInstance":"v1","%Name":"inst_4DCC84A5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4DCC84A5","objectId":{"name":"obj_contador_final_bueno","path":"objects/obj_contador_final_bueno/obj_contador_final_bueno.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2470.0,"y":853.0,},
         {"$GMRInstance":"v1","%Name":"inst_2F473482","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2F473482","objectId":{"name":"contador_respuestas_buenas","path":"objects/contador_respuestas_buenas/contador_respuestas_buenas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2394.0,"y":860.0,},
+        {"$GMRInstance":"v1","%Name":"inst_59932B6E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_59932B6E","objectId":{"name":"Lvl_2","path":"objects/Lvl_2/Lvl_2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2752.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_277175F1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_277175F1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_mesas","path":"sprites/spr_mesas/spr_mesas.yy",},"x":-43.0,"y":-19.0,},

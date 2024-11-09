@@ -12,7 +12,16 @@
 		}
 		image_xscale = -1
 		sprite_index = spr_caminar_nino
-		audio_play_sound(Snd_Pasos_Tierra, 0, false);
+
+		if(movimiento = true){
+	
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Tierra, 1, false);
+
+			alarm[1] = 100
+			}
+		}
 	}else
 	if izquierda{
 		if place_free( x - 5, y) {
@@ -20,21 +29,45 @@
 		}
 		image_xscale = 1
 		sprite_index = spr_caminar_nino
-		audio_play_sound(Snd_Pasos_Tierra, 0, false);
+		if(movimiento = true){
+	
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Tierra, 1, false);
+
+			alarm[1] = 100
+			}
+		}
 	}else
 	if arriba{ 
 		if place_free( x , y - 5) {
 		y -= velo
 		}
 		sprite_index = spr_caminar_nino
-		audio_play_sound(Snd_Pasos_Tierra, 0, false);
+		if(movimiento = true){
+	
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Tierra, 1, false);
+
+			alarm[1] = 100
+			}
+		}
 	}else
 	if abajo {
 		if place_free( x , y + 5) {
 		y += velo
 		}
 		sprite_index = spr_caminar_nino
-		audio_play_sound(Snd_Pasos_Tierra, 0, false);
+		if(movimiento = true){
+	
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Tierra, 1, false);
+
+			alarm[1] = 100
+			}
+		}
 	}else{
 		sprite_index = spr_indle_nino
 	}

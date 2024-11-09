@@ -1,1 +1,6 @@
-audio_play_sound(Snd_Silla, 0, false)
+if (keyboard_check_pressed("E")){
+	
+	audio_play_sound(Snd_Agua, 0, false)
+	j++
+	
+}

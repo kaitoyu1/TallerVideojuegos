@@ -44,6 +44,7 @@ else
 		}if acertados == 6 {
 			text_id = "pregunta_6"
 			create_textbox(text_id)
+			audio_play_sound(Snd_Memoria_Conseguida,0 ,false)
 
 		}
 		#endregion

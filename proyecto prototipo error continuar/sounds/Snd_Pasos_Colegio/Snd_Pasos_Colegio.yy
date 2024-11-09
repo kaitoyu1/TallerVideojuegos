@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":2.795083,
+  "duration":0.9665,
   "name":"Snd_Pasos_Colegio",
   "parent":{
     "name":"Sonidos Nv 2",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"Snd_Pasos_Colegio.mp3",
   "type":0,
-  "volume":0.16,
+  "volume":1.0,
 }
