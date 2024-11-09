@@ -150,16 +150,15 @@ function scr_game_text(_text_id){
 		scr_text("Deberias hacer horas extra, ayudan a rendimiento de  la empresa.","Player")//mala
 		scr_text("Estas loco?","Trabajadora")
 		break
-		
-		case "dialogo pregunta final":
-		scr_text("Te guastaria que fueramos a dar un paseo luego?","Player")
-		break
+	
 		
 		case "dialogo bueno":
+		scr_text("Te guastaria que fueramos a dar un paseo luego?","Player")
 		scr_text("Claro! Me encantaria","Trabajadora")
 		break
 		
 		case "dialogo malo":
+		scr_text("Te guastaria que fueramos a dar un paseo luego?","Player")
 		scr_text("Ew No. Prefiero estar sola.","Trabajadora")
 		break
 				

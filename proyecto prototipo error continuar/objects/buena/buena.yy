@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"buena",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"buena",
   "overriddenProperties":[],
@@ -35,5 +37,5 @@
     "path":"sprites/si/si.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

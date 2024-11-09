@@ -1,5 +1,7 @@
 depth = -9999;  
 
+
+
 // Textbox parametters
 textbox_width = 1000
 textbox_height = 150;
@@ -9,7 +11,7 @@ line_width = textbox_width - border*2;
 txtb_spr[0] = spr_Atextbox;
 txtb_img = 0;
 txtb_img_spd = 6/60;
-
+is_typing = false
 
 //the text
 page = 0;

@@ -7,24 +7,19 @@ if room == opcion_1 {
 	draw_text(950,600,"Ve a trabajar")
 }
 if room == opcion_2 {
-	//neutra
-	draw_text(40,600,"Aqui vienes a perder \nel tiempo?")
-	//buena
-	draw_text(495,600,"No te aburre siempre \nla misma vista?")
 	//mala
+	draw_text(40,600,"Aqui vienes a perder \nel tiempo?")
+	//neutra
+	draw_text(495,600,"No te aburre siempre \nla misma vista?")
+	//buena
 	draw_text(950,600,"Te gusta venir aquíi?")
 }
 
-/*
-
-Tercera ronda de opciones: 
-“Te gustan los paseos luego del trabajo?  Buena
-Respuesta: “Si!  me ayudan a despejar la mente”
-
-“No tienes nada mejor que hacer luego?  
-Respuesta: “ Bueno… pensaba en caminar por ahí” neutra
-
-
-“Deberías hacer horas extra, ayudan al rendimiento de la empresa mala
-Respuesta: “Estás loco?”    
-
+if room == opcion_3 {
+	//buena
+	draw_text(40,600,"Te gustan los paseos \nluego del trabajo?")
+	//neutral
+	draw_text(495,600,"No tienes nada mejor \nque hacer luego?")
+	//mala
+	draw_text(950,600,"Deberías hacer horas extra, \nayudan al rendimiento de la empresa")
+}

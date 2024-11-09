@@ -6,6 +6,8 @@ accept_key = keyboard_check_pressed(vk_enter);
 textbox_x = 0; // O la posición X que desees en la GUI
 textbox_y = display_get_gui_height() - 200 // Por ejemplo, 200 píxeles desde abajo
 
+
+
 if (setup == false)
 {
 	
@@ -132,18 +134,21 @@ if (accept_key)
 		{
 			page++;
 			draw_char = 0;
+		
 		}
 		//destroy textbox
 		else 
 		{
+		
 			instance_destroy()
-			//instance_activate_all()
+			
 		}
 	}
 	// if not done typing 
 	else
 	{
 		draw_char = text_length[page];
+	 
 	}
 }
 
@@ -182,6 +187,11 @@ for (var c = 0; c < draw_char; c++)
 {
     draw_text(char_x[c, page], char_y[c,page], char[c,page]);
 }
-
-
-//var objects_to_exclude = [obj_textbox, obj_settings];
+/*
+if (is_typing) {
+    instance_deactivate_object(obj_player_bebe)
+	
+} else {
+    // Hacer algo cuando termine de escribir
+    // Por ejemplo, mostrar un indicador de "presiona Enter"
+}
