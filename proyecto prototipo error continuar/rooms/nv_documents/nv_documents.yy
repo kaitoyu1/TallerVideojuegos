@@ -29,8 +29,8 @@
   ],
   "name":"nv_documents",
   "parent":{
-    "name":"Salas",
-    "path":"folders/Salas.yy",
+    "name":"nv_adulto",
+    "path":"folders/Salas/Etapas Vida/nv_adulto.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

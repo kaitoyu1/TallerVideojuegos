@@ -8,8 +8,8 @@
   "name":"obj_contador_final_bueno",
   "overriddenProperties":[],
   "parent":{
-    "name":"seleccion de preguntas",
-    "path":"folders/Objetos/nv_adolecente/seleccion de preguntas.yy",
+    "name":"nv_infancia",
+    "path":"folders/Objetos/nv_infancia.yy",
   },
   "parentObjectId":null,
   "persistent":true,

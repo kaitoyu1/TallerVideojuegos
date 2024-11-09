@@ -24,6 +24,10 @@ function scr_game_text(_text_id){
 		scr_text("Tu cuaderno de dibujo. Lleno de lineas torcidas y caritas sonrientes. Una sonrisa lo dice todo!", "Player");
 		break;
 		
+		case "obj_hormigas":
+		scr_text("Por que las hormigas están en fila?... Querran formar la hormiga mas grande del mundo?","Player")
+		break
+		
 		#endregion
 		
 		#region Dialogos nuvel 2

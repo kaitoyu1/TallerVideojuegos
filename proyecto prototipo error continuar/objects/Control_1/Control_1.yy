@@ -9,8 +9,8 @@
   "name":"Control_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"mini documents",
+    "path":"folders/Objetos/nv_adulto/mini documents.yy",
   },
   "parentObjectId":null,
   "persistent":false,
