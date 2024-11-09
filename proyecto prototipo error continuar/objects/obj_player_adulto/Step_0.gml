@@ -12,6 +12,12 @@
 		}
 		image_xscale = 1
 		sprite_index = spr_caminar_adulto
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Oficina, 1, false);
+
+			alarm[1] = 100
+		}
 		
 	}else
 	if izquierda{
@@ -20,6 +26,12 @@
 		}
 		image_xscale = -1
 		sprite_index = spr_caminar_adulto
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Oficina, 1, false);
+
+			alarm[1] = 100
+		}
 		
 	}else
 	if arriba{ 
@@ -27,6 +39,12 @@
 		y -= velo
 		}
 		sprite_index = spr_caminar_adulto
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Oficina, 1, false);
+
+			alarm[1] = 100
+		}
 		
 	}else
 	if abajo {
@@ -34,6 +52,12 @@
 		y += velo
 		}
 		sprite_index = spr_caminar_adulto
+		if (alarm[1] < 70){
+	
+			audio_play_sound(Snd_Pasos_Oficina, 1, false);
+
+			alarm[1] = 100
+		}
 		
 	}else{
 		sprite_index = spr_indle_adulto
