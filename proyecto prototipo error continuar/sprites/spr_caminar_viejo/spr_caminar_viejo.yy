@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Spr_Viejo_En_Movimiento",
+  "%Name":"spr_caminar_viejo",
   "bboxMode":0,
   "bbox_bottom":492,
   "bbox_left":140,
@@ -24,7 +24,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"9f1cf388-c133-4dcd-ab17-d996598ef897","blendMode":0,"displayName":"default","isLocked":false,"name":"9f1cf388-c133-4dcd-ab17-d996598ef897","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Spr_Viejo_En_Movimiento",
+  "name":"spr_caminar_viejo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -36,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Spr_Viejo_En_Movimiento",
+    "%Name":"spr_caminar_viejo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Spr_Viejo_En_Movimiento",
+    "name":"spr_caminar_viejo",
     "playback":1,
     "playbackSpeed":4.0,
     "playbackSpeedType":0,
@@ -72,16 +72,16 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c79ee732-d8f2-473c-8510-a055283199ff","path":"sprites/Spr_Viejo_En_Movimiento/Spr_Viejo_En_Movimiento.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c79ee732-d8f2-473c-8510-a055283199ff","path":"sprites/spr_caminar_viejo/spr_caminar_viejo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"dd2a689f-9004-476d-bdfd-be618f7a249b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ead89029-9150-449f-8a5b-805cc6b77b82","path":"sprites/Spr_Viejo_En_Movimiento/Spr_Viejo_En_Movimiento.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ead89029-9150-449f-8a5b-805cc6b77b82","path":"sprites/spr_caminar_viejo/spr_caminar_viejo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"008cafcc-4288-4255-a532-d51d9b2fa20f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"26635504-474f-4252-a733-c138167986ba","path":"sprites/Spr_Viejo_En_Movimiento/Spr_Viejo_En_Movimiento.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"26635504-474f-4252-a733-c138167986ba","path":"sprites/spr_caminar_viejo/spr_caminar_viejo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"19d842b7-d7b3-4780-b087-cb603165c94a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"159ff44d-841d-464c-8757-84baffff7891","path":"sprites/Spr_Viejo_En_Movimiento/Spr_Viejo_En_Movimiento.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"159ff44d-841d-464c-8757-84baffff7891","path":"sprites/spr_caminar_viejo/spr_caminar_viejo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3c0a38e5-5f16-4e15-a560-9a5781f01b58","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

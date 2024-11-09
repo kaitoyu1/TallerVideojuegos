@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_player_viejo",
-  "eventList":[],
+  "%Name":"obj_player_viejo",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_player_viejo",
+  "name":"obj_player_viejo",
   "overriddenProperties":[],
   "parent":{
     "name":"personaje",
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_indle_viejo",
+    "path":"sprites/spr_indle_viejo/spr_indle_viejo.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
