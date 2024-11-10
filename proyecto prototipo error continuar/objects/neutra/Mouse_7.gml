@@ -25,6 +25,7 @@ if global.cont_nv_adulto == 3{
 	text_id = "dialogo bueno"
 	create_textbox(text_id)
 	global.fin_opciones = 1
+	global.contador_final_bueno +=1
 }
 else{
 	text_id = "dialogo malo"

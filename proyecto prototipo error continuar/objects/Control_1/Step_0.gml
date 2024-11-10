@@ -16,5 +16,11 @@ if (global.documentos_clasificados >= global.objetivo && !global.juego_terminado
 }
 
 if global.juego_terminado {
-	room_goto(Room2)
+	if global.contador_final_bueno == 6{
+		room_goto(Room2)//cinematica final bueno
+	}
+	else
+	{
+		room_goto(Room2)//cinematica final malo 
+	}
 }

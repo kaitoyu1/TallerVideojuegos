@@ -5,10 +5,11 @@ if colision{
 	if sprite_index != spr_arenero_fin
 	{
 		sprite_index = spr_arenero_fin
-		text_id = "obj_arenero"
-		create_textbox(text_id)
-		audio_play_sound(Snd_Pasos_De_Arena, 0, false)
+		global.contador_final_bueno += 1
 	}
+	text_id = "obj_arenero"
+	create_textbox(text_id)
+	audio_play_sound(Snd_Pasos_De_Arena, 0, false)
 }
 	
 	

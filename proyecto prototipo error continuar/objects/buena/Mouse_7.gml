@@ -22,4 +22,5 @@ if room == opcion_3 {
 	create_textbox(text_id)
 	global.cont_nv_adulto += 1
 	show_debug_message("Current Dialog: " + string(global.cont_nv_adulto))
+	
 }
