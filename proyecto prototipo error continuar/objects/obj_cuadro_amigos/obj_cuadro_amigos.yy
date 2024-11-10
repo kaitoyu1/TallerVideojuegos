@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_cuadro_amigos",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_cuadro_amigos",
   "overriddenProperties":[],
@@ -30,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"cuadro_amigos",
+    "path":"sprites/cuadro_amigos/cuadro_amigos.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

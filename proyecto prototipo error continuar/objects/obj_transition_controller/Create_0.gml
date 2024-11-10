@@ -81,6 +81,22 @@ transitions = {
 		}
 		
 	),
+	JUEGO_FINAL_BUENO: create_transition_data(cinematica_final,10/80,nv_final_bueno,
+		{
+			text: ["Hogar, dulce hogar…"," El tiempo no hace mas que avanzar y lo unico que perdura ahora son mis recuerdos, Mis preciados recuerdos.","Cuantas veces habras cruzado este umbral, sin saber que algún día desearías revivir cada instante. Las risas, las conversaciones, incluso los silencios... todo se ha vuelto un eco lejano, un tesoro en mi memoria.",
+			"Hoy, regreso para honrar lo que fui, lo que ame y lo que perdí. Porque al final, esos momentos efimeros son los que le dieron sentido a todo."],
+			
+			duration: 480
+		}
+	),
+	JUEGO_FINAL_MALO: create_transition_data(cinematica_final,10/80,nv_final_malo,
+		{
+			text: ["Por fin en… casa…","El tiempo no hace mas que avanzar, y lo unico que me queda ahora son sombras de lo que podría haber sido, recuerdos distorsionados por la tristeza.",
+			"Cuantas veces deje pasar esos momentos? Las risas que ignore, las oportunidades que rechace... cada instante efímero que nunca supe valorar.","Todo lo que queda es el eco de un vacio, una vida que se desvanecio entre preocupaciones y arrepentimientos. Ahora, este hogar es un recordatorio de lo que nunca se lleno, de lo que se perdio para siempre."],
+			duration:480
+		}
+		)
+	//CAMA_BUENO: create_transition_data()
 	
 };
 

@@ -168,6 +168,29 @@ function scr_game_text(_text_id){
 				
 		#endregion
 		
+		#region Dialogos nivel 5
+		
+		case "obj_cuadro_1":
+		scr_text("Vaya, aun guardo esto… Recuerdo cuando solo necesitaba una hoja y un lápiz para ser feliz. que simples eran esos dias","Player")
+		break
+		
+		case "obj_cuadro_2":
+		scr_text("Cuanto tiempo habre pasado en el parque? aquellos dias de nuevas experiencias e imaginacion sin limites…","Player")
+		break
+		
+		case "obj_cuadro_3":
+		scr_text("Mis viejos amigos… he cambiado mucho desde ese dia gracias a ellos. Quien hubiera pensado que solo un instante cambiaria mi vida para siempre.","Player")
+		break
+		
+		case "obj_cuadro_4":
+		scr_text("Aun recuerdo nuestra primera conversación al lado de ese dispensador de agua. Vaya lugar para conocer al amor de mi vida…","Player")
+		scr_text("Si no hubiera sido por ella, aun estaria en esa estupida oficina.","Player")
+		break
+		
+		
+		
+		#endregion
+		
 	}
 
 }

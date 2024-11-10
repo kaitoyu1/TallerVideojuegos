@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"final_juego_bueno",
   "bboxMode":0,
-  "bbox_bottom":298,
+  "bbox_bottom":767,
   "bbox_left":0,
-  "bbox_right":1599,
+  "bbox_right":4109,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":299,
+  "height":768,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"b1729e2f-d657-4858-be98-ca637df9ece7","blendMode":0,"displayName":"default","isLocked":false,"name":"b1729e2f-d657-4858-be98-ca637df9ece7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1600,
+  "width":4110,
 }

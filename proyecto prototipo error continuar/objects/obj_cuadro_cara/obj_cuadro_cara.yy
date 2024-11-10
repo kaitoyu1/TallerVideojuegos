@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_cuadro_cara",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_cuadro_cara",
   "overriddenProperties":[],
@@ -30,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"cuandro_wawa",
+    "path":"sprites/cuandro_wawa/cuandro_wawa.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_cuandro_nino",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_cuandro_nino",
   "overriddenProperties":[],
@@ -30,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"cuadro_nino",
+    "path":"sprites/cuadro_nino/cuadro_nino.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
