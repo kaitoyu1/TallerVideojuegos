@@ -283,6 +283,8 @@
     {"id":{"name":"_123Z_2101_w020_n001_948B_p15_948","path":"sprites/_123Z_2101_w020_n001_948B_p15_948/_123Z_2101_w020_n001_948B_p15_948.yy",},},
     {"id":{"name":"anillos","path":"sprites/anillos/anillos.yy",},},
     {"id":{"name":"boton","path":"sprites/boton/boton.yy",},},
+    {"id":{"name":"cama_bueno","path":"sprites/cama_bueno/cama_bueno.yy",},},
+    {"id":{"name":"cama_malo","path":"sprites/cama_malo/cama_malo.yy",},},
     {"id":{"name":"cinematica_final","path":"sprites/cinematica_final/cinematica_final.yy",},},
     {"id":{"name":"Circulo","path":"sprites/Circulo/Circulo.yy",},},
     {"id":{"name":"cuadro_amigos","path":"sprites/cuadro_amigos/cuadro_amigos.yy",},},

@@ -173,6 +173,8 @@
     {"name":"Snd_Vaso_2","order":8,"path":"sounds/Snd_Vaso_2/Snd_Vaso_2.yy",},
     {"name":"Snd_Viento","order":4,"path":"sounds/Snd_Viento/Snd_Viento.yy",},
     {"name":"anillos","order":3,"path":"sprites/anillos/anillos.yy",},
+    {"name":"cama_bueno","order":8,"path":"sprites/cama_bueno/cama_bueno.yy",},
+    {"name":"cama_malo","order":7,"path":"sprites/cama_malo/cama_malo.yy",},
     {"name":"cinematica_final","order":5,"path":"sprites/cinematica_final/cinematica_final.yy",},
     {"name":"cuadro_amigos","order":2,"path":"sprites/cuadro_amigos/cuadro_amigos.yy",},
     {"name":"cuadro_nino","order":1,"path":"sprites/cuadro_nino/cuadro_nino.yy",},

@@ -96,7 +96,7 @@ transitions = {
 			duration:480
 		}
 	),
-	CAMA_BUENO: create_transition_data(cama_buena,10/80,nv_fin_juego,
+	CAMA_BUENO: create_transition_data(cama_bueno,10/80,nv_fin_juego,
 		{
 			text: ["Mi vida... Fue buena, llena de momentos sencillos, de risas, de amistades y de amor. No necesité más que estos recuerdos, estas pequeñas piezas de un rompecabezas llamado felicidad."],
 			duration: 480
