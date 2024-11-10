@@ -95,8 +95,19 @@ transitions = {
 			"Cuantas veces deje pasar esos momentos? Las risas que ignore, las oportunidades que rechace... cada instante efímero que nunca supe valorar.","Todo lo que queda es el eco de un vacio, una vida que se desvanecio entre preocupaciones y arrepentimientos. Ahora, este hogar es un recordatorio de lo que nunca se lleno, de lo que se perdio para siempre."],
 			duration:480
 		}
-		)
-	//CAMA_BUENO: create_transition_data()
+	),
+	CAMA_BUENO: create_transition_data(cama_buena,10/80,nv_fin_juego,
+		{
+			text: ["Mi vida... Fue buena, llena de momentos sencillos, de risas, de amistades y de amor. No necesité más que estos recuerdos, estas pequeñas piezas de un rompecabezas llamado felicidad."],
+			duration: 480
+		}
+	),
+	CAMA_MALO: create_transition_data(cama_malo,10/80,nv_fin_juego,
+		{
+			text: ["Es triste llegar hasta aquí sin nada que me haga sonreír. Tal vez, si hubiera apreciado más los detalles… Pero ahora es tarde."],
+			duration: 480
+		}
+	)
 	
 };
 

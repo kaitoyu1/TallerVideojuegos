@@ -17,10 +17,14 @@ if (global.documentos_clasificados >= global.objetivo && !global.juego_terminado
 
 if global.juego_terminado {
 	if global.contador_final_bueno == 6{
-		room_goto(Room2)//cinematica final bueno
+		with(obj_transition_controller){
+			start_specific_transition("JUEGO_FINAL_BUENO")
+		}//cinematica final bueno
 	}
 	else
 	{
-		room_goto(Room2)//cinematica final malo 
+		with(obj_transition_controller){
+			start_specific_transition("JUEGO_FINAL_MALO")
+		}//cinematica final malo
 	}
 }
