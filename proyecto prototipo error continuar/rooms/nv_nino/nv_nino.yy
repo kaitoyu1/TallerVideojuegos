@@ -179,11 +179,13 @@
     {"name":"inst_42FCCEC9","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_46B47B7F","path":"rooms/nv_nino/nv_nino.yy",},
     {"name":"inst_420EF24","path":"rooms/nv_nino/nv_nino.yy",},
+    {"name":"inst_209F8D8","path":"rooms/nv_nino/nv_nino.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"prersonaje","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_59515F07","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_59515F07","objectId":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":256.0,"y":480.0,},
+        {"$GMRInstance":"","%Name":"inst_209F8D8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_209F8D8","objectId":{"name":"obj_hormigas","path":"objects/obj_hormigas/obj_hormigas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3360.0,"y":544.0,},
       ],"layers":[],"name":"prersonaje","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"juegos","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_717EAE5B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_717EAE5B","objectId":{"name":"obj_arenero","path":"objects/obj_arenero/obj_arenero.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3150.0,"y":265.0,},
