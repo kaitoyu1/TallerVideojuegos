@@ -106,6 +106,7 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"acti_dormir","path":"objects/acti_dormir/acti_dormir.yy",},},
     {"id":{"name":"adolecente_a_adulto","path":"objects/adolecente_a_adulto/adolecente_a_adulto.yy",},},
+    {"id":{"name":"adulto_viejo","path":"objects/adulto_viejo/adulto_viejo.yy",},},
     {"id":{"name":"bebedormir","path":"objects/bebedormir/bebedormir.yy",},},
     {"id":{"name":"buena","path":"objects/buena/buena.yy",},},
     {"id":{"name":"contador_respuestas_buenas","path":"objects/contador_respuestas_buenas/contador_respuestas_buenas.yy",},},
@@ -209,6 +210,7 @@
     {"id":{"name":"Plataforma","path":"objects/Plataforma/Plataforma.yy",},},
     {"id":{"name":"respuesta_buena","path":"objects/respuesta_buena/respuesta_buena.yy",},},
     {"id":{"name":"respuesta_mala","path":"objects/respuesta_mala/respuesta_mala.yy",},},
+    {"id":{"name":"adulto_a_viejo","path":"rooms/adulto_a_viejo/adulto_a_viejo.yy",},},
     {"id":{"name":"intrucciones_nv_click","path":"rooms/intrucciones_nv_click/intrucciones_nv_click.yy",},},
     {"id":{"name":"intrucciones_nv_plataforma","path":"rooms/intrucciones_nv_plataforma/intrucciones_nv_plataforma.yy",},},
     {"id":{"name":"Memorias","path":"rooms/Memorias/Memorias.yy",},},
@@ -407,6 +409,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"adulto_a_viejo","path":"rooms/adulto_a_viejo/adulto_a_viejo.yy",},},
     {"roomId":{"name":"nv_documents","path":"rooms/nv_documents/nv_documents.yy",},},
     {"roomId":{"name":"nv_adulto","path":"rooms/nv_adulto/nv_adulto.yy",},},
     {"roomId":{"name":"trancision_adulto","path":"rooms/trancision_adulto/trancision_adulto.yy",},},
