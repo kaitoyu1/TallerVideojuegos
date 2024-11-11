@@ -19,7 +19,7 @@ else
 		show_debug_message("Ganaste");
 		acertados +=1 
 		pressed = false
-		velocidad +=1.5
+		velocidad +=1
 		#region respuestas
 
 		if acertados == 1 {
