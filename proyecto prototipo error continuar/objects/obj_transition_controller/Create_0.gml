@@ -75,7 +75,7 @@ transitions = {
 	),
 	ADULTO_INTRO: create_transition_data(spr_cine_adulto,10/80,nv_adulto,
 		{
-			text:["De las aulas llenas de dudas y suenos, a la monotonia de un cubiculo gris, la vida adulta llego sin promesas, solo con el peso de la rutina",
+			texts:["De las aulas llenas de dudas y suenos, a la monotonia de un cubiculo gris, la vida adulta llego sin promesas, solo con el peso de la rutina",
 			"Has conseguido un trabajo bien pagado. te has esforzado para llegar hasta aqui","Es esto lo que realmente deberias estar haciendo?"],
 			duration: 480
 		}
@@ -83,7 +83,7 @@ transitions = {
 	),
 	JUEGO_FINAL_BUENO: create_transition_data(cinematica_final,10/80,nv_final_bueno,
 		{
-			text: ["Hogar, dulce hogar…"," El tiempo no hace mas que avanzar y lo unico que perdura ahora son mis recuerdos, Mis preciados recuerdos.","Cuantas veces habras cruzado este umbral, sin saber que algún día desearías revivir cada instante. Las risas, las conversaciones, incluso los silencios... todo se ha vuelto un eco lejano, un tesoro en mi memoria.",
+			texts: ["Hogar, dulce hogar…"," El tiempo no hace mas que avanzar y lo unico que perdura ahora son mis recuerdos, Mis preciados recuerdos.","Cuantas veces habras cruzado este umbral, sin saber que algún día desearías revivir cada instante. Las risas, las conversaciones, incluso los silencios... todo se ha vuelto un eco lejano, un tesoro en mi memoria.",
 			"Hoy, regreso para honrar lo que fui, lo que ame y lo que perdí. Porque al final, esos momentos efimeros son los que le dieron sentido a todo."],
 			
 			duration: 480
@@ -91,20 +91,20 @@ transitions = {
 	),
 	JUEGO_FINAL_MALO: create_transition_data(cinematica_final,10/80,nv_final_malo,
 		{
-			text: ["Por fin en… casa…","El tiempo no hace mas que avanzar, y lo unico que me queda ahora son sombras de lo que podría haber sido, recuerdos distorsionados por la tristeza.",
+			texts: ["Por fin en… casa…","El tiempo no hace mas que avanzar, y lo unico que me queda ahora son sombras de lo que podría haber sido, recuerdos distorsionados por la tristeza.",
 			"Cuantas veces deje pasar esos momentos? Las risas que ignore, las oportunidades que rechace... cada instante efímero que nunca supe valorar.","Todo lo que queda es el eco de un vacio, una vida que se desvanecio entre preocupaciones y arrepentimientos. Ahora, este hogar es un recordatorio de lo que nunca se lleno, de lo que se perdio para siempre."],
 			duration:480
 		}
 	),
 	CAMA_BUENO: create_transition_data(cama_bueno,10/80,nv_fin_juego,
 		{
-			text: ["Mi vida... Fue buena, llena de momentos sencillos, de risas, de amistades y de amor. No necesité más que estos recuerdos, estas pequeñas piezas de un rompecabezas llamado felicidad."],
+			texts: ["Mi vida... Fue buena, llena de momentos sencillos, de risas, de amistades y de amor. No necesité más que estos recuerdos, estas pequeñas piezas de un rompecabezas llamado felicidad."],
 			duration: 480
 		}
 	),
 	CAMA_MALO: create_transition_data(cama_malo,10/80,nv_fin_juego,
 		{
-			text: ["Es triste llegar hasta aquí sin nada que me haga sonreír. Tal vez, si hubiera apreciado más los detalles… Pero ahora es tarde."],
+			texts: ["Es triste llegar hasta aquí sin nada que me haga sonreír. Tal vez, si hubiera apreciado más los detalles… Pero ahora es tarde."],
 			duration: 480
 		}
 	)
