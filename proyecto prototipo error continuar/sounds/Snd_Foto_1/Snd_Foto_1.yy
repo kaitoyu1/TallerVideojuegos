@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Foto_3",
+  "%Name":"Snd_Foto_1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":14.08,
-  "name":"Foto_3",
+  "duration":2.821208,
+  "name":"Snd_Foto_1",
   "parent":{
     "name":"Sonidos Nv 4",
     "path":"folders/Sonidos/Sonidos Nv 4.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Foto_3.mp3",
+  "soundFile":"Snd_Foto_1.mp3",
   "type":0,
   "volume":1.0,
 }

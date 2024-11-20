@@ -3,4 +3,5 @@
 if colision{
 	text_id = "obj_cuadro_2"
 	create_textbox(text_id)
+	audio_play_sound(Snd_Foto_2, 0, false)
 }

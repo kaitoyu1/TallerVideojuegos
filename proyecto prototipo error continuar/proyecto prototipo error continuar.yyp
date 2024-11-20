@@ -99,7 +99,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"proyecto prototipo error continuar",
   "resources":[
@@ -242,10 +242,10 @@
     {"id":{"name":"scr_game_text","path":"scripts/scr_game_text/scr_game_text.yy",},},
     {"id":{"name":"scr_textbox_fuctions","path":"scripts/scr_textbox_fuctions/scr_textbox_fuctions.yy",},},
     {"id":{"name":"scr_transitions","path":"scripts/scr_transitions/scr_transitions.yy",},},
-    {"id":{"name":"Foto_1","path":"sounds/Foto_1/Foto_1.yy",},},
-    {"id":{"name":"Foto_2","path":"sounds/Foto_2/Foto_2.yy",},},
-    {"id":{"name":"Foto_3","path":"sounds/Foto_3/Foto_3.yy",},},
-    {"id":{"name":"Foto_4","path":"sounds/Foto_4/Foto_4.yy",},},
+    {"id":{"name":"Snd_Foto_1","path":"sounds/Snd_Foto_1/Snd_Foto_1.yy",},},
+    {"id":{"name":"Snd_Foto_2","path":"sounds/Snd_Foto_2/Snd_Foto_2.yy",},},
+    {"id":{"name":"Snd_Foto_3","path":"sounds/Snd_Foto_3/Snd_Foto_3.yy",},},
+    {"id":{"name":"Snd_Foto_4","path":"sounds/Snd_Foto_4/Snd_Foto_4.yy",},},
     {"id":{"name":"Musica_Level_1","path":"sounds/Musica_Level_1/Musica_Level_1.yy",},},
     {"id":{"name":"Musica_Menu","path":"sounds/Musica_Menu/Musica_Menu.yy",},},
     {"id":{"name":"Musica_Nivel_2","path":"sounds/Musica_Nivel_2/Musica_Nivel_2.yy",},},
