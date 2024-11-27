@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":32.600815,
+  "duration":32.552925,
   "name":"Musica_Level_1",
   "parent":{
     "name":"Sonidos Nv 1",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Musica_Level_1.mp3",
+  "soundFile":"Musica_Level_1.wav",
   "type":0,
-  "volume":0.35,
+  "volume":1.0,
 }

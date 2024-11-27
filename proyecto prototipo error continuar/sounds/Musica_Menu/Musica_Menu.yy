@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Musica_Menu.mp3",
+  "soundFile":"Musica_Menu.wav",
   "type":0,
   "volume":1.0,
 }
