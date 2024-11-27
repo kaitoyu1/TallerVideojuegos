@@ -3,8 +3,7 @@
   "%Name":"Obj_Bicicleta",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player_nino","path":"objects/obj_player_nino/obj_player_nino.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_Bicicleta",
@@ -13,7 +12,10 @@
     "name":"objetos intera",
     "path":"folders/Objetos/nv_nino/objetos intera.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_cartel_parent",
+    "path":"objects/obj_cartel_parent/obj_cartel_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

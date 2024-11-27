@@ -25,7 +25,7 @@ function scr_game_text(_text_id){
 		break;
 		
 		case "obj_hormigas":
-		scr_text("Por que las hormigas están en fila?... Querran formar la hormiga mas grande del mundo?","Player")
+		scr_text("Por que las hormigas estan en fila?... Querran formar la hormiga mas grande del mundo?","Player")
 		break
 		
 		#endregion
@@ -34,6 +34,18 @@ function scr_game_text(_text_id){
 		
 		case "obj_arenero": 
 		scr_text("Cuanta arena! Podria hacer un castillo!... ¡o un pastel!  … iugh…", "Player")
+		break;
+		case "obj_Perro": 
+		scr_text("Hehe, al perro le encanta dormir en este lugar", "Player")
+		break;
+		case "obj_Bici": 
+		scr_text("No he tenido mucho tiempo para pasear en bicicleta", "Player")
+		break;
+		case "obj_Roca": 
+		scr_text("Esta roca es muy grande, despues intentare moverla", "Player")
+		break;
+		case "obj_Rama": 
+		scr_text("Esta rama es muy grande... sera de algun arbol?", "Player")
 		break;
 		
 		#endregion
