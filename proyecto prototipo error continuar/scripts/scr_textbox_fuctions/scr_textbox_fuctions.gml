@@ -19,6 +19,8 @@ speaker_side[page_number] = 1;
 //@param [side]
 function scr_text(_text){
 	
+	
+	
 	scr_set_defaults_for_text()
 	
 	text[page_number] = _text;
@@ -68,10 +70,16 @@ function scr_text(_text){
 
 
 function create_textbox(_text_id){
+	if (!global.dialogue_active) {
+    global.dialogue_active = true;
 	
 	with (instance_create_depth(0, 0, -9999, obj_textbox))
 	{
 		scr_game_text(_text_id);
 		
 	}
+	}else {
+        // Opcional: Mostrar mensaje o hacer algo si ya hay un diálogo en curso
+        show_debug_message("Un diálogo ya está en progreso");
+    }
 }

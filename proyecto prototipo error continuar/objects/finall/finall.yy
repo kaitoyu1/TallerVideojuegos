@@ -34,5 +34,5 @@
     "path":"sprites/Sprite38/Sprite38.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

@@ -139,7 +139,7 @@ if (accept_key)
 		//destroy textbox
 		else 
 		{
-		
+			global.dialogue_active = false;
 			instance_destroy()
 			
 		}
