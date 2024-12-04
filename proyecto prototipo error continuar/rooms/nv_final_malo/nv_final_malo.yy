@@ -13,6 +13,7 @@
     {"name":"inst_62D6511C","path":"rooms/nv_final_malo/nv_final_malo.yy",},
     {"name":"inst_7BB1059E","path":"rooms/nv_final_malo/nv_final_malo.yy",},
     {"name":"inst_274888E8","path":"rooms/nv_final_malo/nv_final_malo.yy",},
+    {"name":"inst_141EB67A","path":"rooms/nv_final_malo/nv_final_malo.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,6 +25,7 @@
         {"$GMRInstance":"","%Name":"inst_62D6511C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_62D6511C","objectId":{"name":"obj_muros","path":"objects/obj_muros/obj_muros.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":65.0,"scaleY":1.0,"x":0.0,"y":64.0,},
         {"$GMRInstance":"","%Name":"inst_7BB1059E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7BB1059E","objectId":{"name":"obj_muros","path":"objects/obj_muros/obj_muros.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":7.5,"x":4192.0,"y":128.0,},
         {"$GMRInstance":"","%Name":"inst_274888E8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_274888E8","objectId":{"name":"obj_transition_controller","path":"objects/obj_transition_controller/obj_transition_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4128.0,"y":-64.0,},
+        {"$GMRInstance":"","%Name":"inst_141EB67A","colour":4278190335,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_141EB67A","objectId":{"name":"finall","path":"objects/finall/finall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":8.5,"x":3936.0,"y":224.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"final_juego_malo","path":"sprites/final_juego_malo/final_juego_malo.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

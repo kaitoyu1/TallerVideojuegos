@@ -3,4 +3,5 @@
 
 with(obj_transition_controller) {
 		start_specific_transition("BEBE_FIN");
+		instance_deactivate_all(true);
 	}

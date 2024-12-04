@@ -3,4 +3,5 @@
 
 with(obj_transition_controller) {
 		start_specific_transition("ADOLECENTE_INTRO");
+		instance_deactivate_all(true);
 	}

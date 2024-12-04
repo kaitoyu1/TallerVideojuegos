@@ -4,11 +4,13 @@
 if global.contador_final_bueno == 5{
 		with(obj_transition_controller){
 			start_specific_transition("JUEGO_FINAL_BUENO")
+			instance_deactivate_all(true);
 		}//cinematica final bueno
 	}
 	else
 	{
 		with(obj_transition_controller){
 			start_specific_transition("JUEGO_FINAL_MALO")
+			instance_deactivate_all(true);
 		}//cinematica final malo
 	}

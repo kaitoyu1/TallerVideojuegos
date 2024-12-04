@@ -5,11 +5,13 @@ if room == nv_final_bueno{
 	
 	with(obj_transition_controller){
 		start_specific_transition("CAMA_BUENO")
+		instance_deactivate_all(true);
 	}
 	
 }
 if room == nv_final_malo {
 	with(obj_transition_controller){
 		start_specific_transition("CAMA_MALO")
+		instance_deactivate_all(true);
 	}
 }
