@@ -1,1 +1,1 @@
-audio_pause_sound(Musica_Tutorial)
+audio_stop_all()

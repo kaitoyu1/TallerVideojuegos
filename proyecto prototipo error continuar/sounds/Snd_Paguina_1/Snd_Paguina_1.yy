@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.368,
+  "duration":1.149375,
   "name":"Snd_Paguina_1",
   "parent":{
     "name":"Sonidos Tutorial",

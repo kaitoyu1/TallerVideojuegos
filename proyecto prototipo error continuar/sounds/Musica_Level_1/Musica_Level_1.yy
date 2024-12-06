@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":32.552925,
+  "duration":0.0,
   "name":"Musica_Level_1",
   "parent":{
     "name":"Sonidos Nv 1",

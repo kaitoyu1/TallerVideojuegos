@@ -23,8 +23,10 @@ if room == pregunta_4{
 if room == pregunta_5{
 	global.rep_buenas += 1
 	room_goto(pregunta_6)
+	audio_play_sound(Snd_Paguina_2, 0, false)
 }
 if room == pregunta_6 {
 	global.rep_buenas += 1
 	room_goto(trancision_adulto)
+	audio_play_sound(Snd_Memoria_Conseguida, 0, false)
 }

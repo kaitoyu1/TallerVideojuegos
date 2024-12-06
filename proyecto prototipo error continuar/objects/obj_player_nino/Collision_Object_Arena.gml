@@ -1,5 +1,4 @@
 
-
 if(movimiento = true){
 	
 	if (alarm[1] < 70){
